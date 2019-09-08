@@ -1,0 +1,795 @@
+﻿Internal Tracking Number,Synonym,Name Quality,Substance Name,Registry Name,CAS,TSN,EPA ID,Molecular Formula,Active Status
+3848,Vinegar acid,Valid,Acetic acid,Acetic acid,64-19-7,,,C2H4O2,Active
+3848,Acetic acid,Valid,Acetic acid,Acetic acid,64-19-7,,,C2H4O2,Active
+3848,Glacial acetic acid,Valid,Acetic acid,Acetic acid,64-19-7,,,C2H4O2,Active
+24828,Acetic acid ethylene ether,Valid,Acetic acid ethenyl ester,Vinyl acetate,108-05-4,,,C4H6O2,Active
+24828,Vinyl acetate,Valid,Acetic acid ethenyl ester,Vinyl acetate,108-05-4,,,C4H6O2,Active
+322990,"2,4,5-T ester",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, 1-methylpropyl ester","2,4,5-T sec-butyl ester",61792-07-2,,,C12H13Cl3O3,Active
+104141,"2,4,5-Trichlorophenoxyacetic esters",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, 2-butoxyethyl ester","2,4,5-T 2-butoxyethyl ester",2545-59-7,,,C14H17Cl3O4,Active
+94409,"2,4,5-T ester",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, 2-ethylhexyl ester","2,4,5-T 2-ethylhexyl ester",1928-47-8,,,C16H21Cl3O3,Active
+15081,"2,4,5-T ester",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, butyl ester","2,4,5-T butyl ester",93-79-8,,,C12H13Cl3O3,Active
+119420,"Acetic acid, (2,4,5- trichlorophenoxy)-, compound with 2,2'2''-nitrilotris[ethanol] (1:1)",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)","2,4,5-T triethanolamine salt",3813-14-7,,,C8H5Cl3O3.C6H15NO3,Active
+95406,"Acetic acid, (2,4,5-trichlorophenoxy)-, compound with N,N-diethylethanamine (1:1)",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, compd. with N,N-diethylethanamine (1:1)","2,4,5-T triethylamine salt",2008-46-0,,,C8H5Cl3O3.C6H15N,
+140848,"Acetic acid, (2,4,5- trichlorophenoxy)-, compound with N,N-dimethylmethanamine (1:1)",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, compd. with N,N-dimethylmethanamine (1:1)","2,4,5-T trimethylamine salt",6369-96-6,,,C8H5Cl3O3.C3H9N,Active
+140855,"Acetic acid, (2,4,5- trichlorophenoxy)-, compound with N-methylmethanamine (1:1)",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, compd. with N-methylmethanamine (1:1)","2,4,5-T dimethylamine salt",6369-97-7,,,C8H5Cl3O3.C2H7N,Active
+83543,"Acetic acid, (2,4,5- trichlorophenoxy)-, compound with 1-amino-2-propanol (1:1)",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, compound with 1-amino-2-propanol (1:1)","2,4,5-T isopropanolamine salt",1319-72-8,,,C8H5Cl3O3.C3H9NO,Active
+230599,"2,4,5-T ester",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, isooctyl ester","2,4,5-T isooctyl ester",25168-15-4,,,C16H21Cl3O3,Active
+188441,"Acetic acid, (2,4,5- trichlorophenoxy)-, sodium salt",Valid,"Acetic acid, (2,4,5-trichlorophenoxy)-, sodium salt","2,4,5-T sodium salt",13560-99-1,,,C8H5Cl3O3.Na,Active
+15289,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, 1-methylethyl ester","2,4-D isopropyl ester",94-11-1,,,C11H12Cl2O3,Active
+15289,"2,4-Dichlorophenoxyacetic acid ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, 1-methylethyl ester","2,4-D isopropyl ester",94-11-1,,,C11H12Cl2O3,Active
+15677,"2,4-D ester",Ambiguous,"Acetic acid, (2,4-dichlorophenoxy)-, 1-methylpropyl ester","2,4-D sec-butyl ester",94-79-1,,,C12H14Cl2O3,Active
+94441,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, 2-butoxyethyl ester","2,4-D 2-butoxyethyl ester",1929-73-3,,,C14H18Cl2O4,Active
+83626,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, 2-butoxymethylethyl ester","2,4-D 2-butoxymethylethyl ester",1320-18-9,,,C15H20Cl2O4,Active
+109496,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, 4-chloro-2-butenyl ester","2,4-D chlorocrotyl ester",2971-38-2,,,C12H11Cl3O3,Active
+15685,"2,4-D ester",Ambiguous,"Acetic acid, (2,4-dichlorophenoxy)-, butyl ester","2,4-D butyl ester",94-80-4,,,C12H14Cl2O3,Active
+230631,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, isooctyl ester","2,4-D isooctyl ester",25168-26-7,,,C16H22Cl2O3,Active
+94375,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, methyl ester","2,4-D methyl ester",1928-38-7,,,C9H8Cl2O3,Active
+94425,"2,4-D ester",Valid,"Acetic acid, (2,4-dichlorophenoxy)-, propyl ester","2,4-D propyl ester",1928-61-6,,,C11H12Cl2O3,Active
+24976,Acetyl oxide,Valid,"Acetic acid, 1,1'-anhydride",Acetic anhydride,108-24-7,,,C4H6O3,Active
+24976,Acetic anhydride,Valid,"Acetic acid, 1,1'-anhydride",Acetic anhydride,108-24-7,,,C4H6O3,Active
+24976,Acetic oxide,Valid,"Acetic acid, 1,1'-anhydride",Acetic anhydride,108-24-7,,,C4H6O3,Active
+51979,tert-Butyl acetate,Valid,"Acetic acid, 1,1-dimethylethyl ester",tert-Butyl acetate,540-88-5,,,C6H12O2,Active
+22814,sec-Butyl acetate,Valid,"Acetic acid, 1-methylpropyl ester",sec-Butyl acetate,105-46-4,,,C6H12O2,Active
+15065,"2,4,5-T acid",Valid,"Acetic acid, 2-(2,4,5-trichlorophenoxy)-","2,4,5-T",93-76-5,,,C8H5Cl3O3,Active
+15065,"2,4,5-Trichlorophenoxyacetic acid",Valid,"Acetic acid, 2-(2,4,5-trichlorophenoxy)-","2,4,5-T",93-76-5,,,C8H5Cl3O3,Active
+15651,"2,4-D acid",Valid,"Acetic acid, 2-(2,4-dichlorophenoxy)-","2,4-D",94-75-7,,,C8H6Cl2O3,Active
+15651,"2,4-Dichlorophenoxyacetic acid",Valid,"Acetic acid, 2-(2,4-dichlorophenoxy)-","2,4-D",94-75-7,,,C8H6Cl2O3,Active
+26476,iso-Butyl acetate,Valid,"Acetic acid, 2-methylpropyl ester",Isobutyl acetate,110-19-0,,,C6H12O2,Active
+65185,"Acetic acid ammonium, salt",Valid,"Acetic acid, ammonium salt (1:1)",Ammonium acetate,631-61-8,,,C2H4O2.H3N,Active
+65185,Ammonium acetate,Valid,"Acetic acid, ammonium salt (1:1)",Ammonium acetate,631-61-8,,,C2H4O2.H3N,Active
+33233,Acetic acid butyl ester,Valid,"Acetic acid, butyl ester",n-Butyl acetate,123-86-4,,,C6H12O2,Active
+33233,Butyl acetate,Valid,"Acetic acid, butyl ester",n-Butyl acetate,123-86-4,,,C6H12O2,Active
+52654,Cadmium acetate,Valid,"Acetic acid, cadmium salt (2:1)",Cadmium acetate,543-90-8,,,C2H4O2.1/2Cd,Active
+76950,Chromic acetate,Valid,"Acetic acid, chromium(3+) salt (3:1)",Chromium(III) acetate,1066-30-4,,,C2H4O2.1/3Cr,Active
+38901,Crystalized verdigris,Valid,"Acetic acid, copper(2+) salt (2:1)",Cupric acetate,142-71-2,,,C2H4O2.1/2Cu,Active
+38901,Cupric acetate,Valid,"Acetic acid, copper(2+) salt (2:1)",Cupric acetate,142-71-2,,,C2H4O2.1/2Cu,Active
+38901,Copper acetate,Valid,"Acetic acid, copper(2+) salt (2:1)",Cupric acetate,142-71-2,,,C2H4O2.1/2Cu,Active
+41483,Sugar of lead,Valid,"Acetic acid, lead(2+) salt (2:1)",Lead(II) acetate,301-04-2,,,C2H4O2.1/2Pb,Active
+41483,Lead acetate,Valid,"Acetic acid, lead(2+) salt (2:1)",Lead(II) acetate,301-04-2,,,C2H4O2.1/2Pb,Active
+64394,Amly acetate,Valid,"Acetic acid, pentyl ester",n-Amyl acetate,628-63-7,,,C7H14O2,Active
+64394,Amylacetic ester,Valid,"Acetic acid, pentyl ester",n-Amyl acetate,628-63-7,,,C7H14O2,Active
+54262,Zinc acetate,Valid,"Acetic acid, zinc salt (2:1)",Zinc acetate,557-34-6,,,C2H4O2.1/2Zn,Active
+49130,Acetyl bromide,Valid,Acetyl bromide,Acetyl bromide,506-96-7,,,C2H3BrO,Active
+7781,Acetyl chloride,Inaccurate,"Acetyl chloride, 2,2-dichloro-",Dichloroacetyl chloride,79-36-7,,,C2HCl3O,Active
+5280,Ethyl aldehyde,Valid,Acetaldehyde,Acetaldehyde,75-07-0,,,C2H4O,Active
+5280,Ethanal,Valid,Acetaldehyde,Acetaldehyde,75-07-0,,,C2H4O,Active
+5280,Acetaldehyde,Valid,Acetaldehyde,Acetaldehyde,75-07-0,,,C2H4O,Active
+5280,Acetic aldehyde,Valid,Acetaldehyde,Acetaldehyde,75-07-0,,,C2H4O,Active
+152389,Ammonia,Valid,Ammonia,Ammonia,7664-41-7,,,H3N,Active
+179416,Sal ammoniac,Valid,Ammonium chloride ((NH4)Cl),Ammonium chloride,12125-02-9,,,ClH4N,Active
+179416,Amchlor,Valid,Ammonium chloride ((NH4)Cl),Ammonium chloride,12125-02-9,,,ClH4N,Active
+179416,Ammonium chloride,Valid,Ammonium chloride ((NH4)Cl),Ammonium chloride,12125-02-9,,,ClH4N,Active
+179416,Salmiac,Valid,Ammonium chloride ((NH4)Cl),Ammonium chloride,12125-02-9,,,ClH4N,Active
+179416,Ammonium muriate,Valid,Ammonium chloride ((NH4)Cl),Ammonium chloride,12125-02-9,,,ClH4N,Active
+86033,Ammonium hydrogen fluoride,Valid,Ammonium fluoride ((NH4)(HF2)),Ammonium bifluoride,1341-49-7,,,F2H.H4N,Active
+86033,Acid ammonium fluoride,Valid,Ammonium fluoride ((NH4)(HF2)),Ammonium bifluoride,1341-49-7,,,F2H.H4N,Active
+86033,Ammonium bifluoride,Valid,Ammonium fluoride ((NH4)(HF2)),Ammonium bifluoride,1341-49-7,,,F2H.H4N,Active
+179408,Ammonium fluoride,Valid,Ammonium fluoride ((NH4)F),Ammonium fluoride,12125-01-8,,,FH4N,Active
+179408,Neutral ammonium fluoride,Valid,Ammonium fluoride ((NH4)F),Ammonium fluoride,12125-01-8,,,FH4N,Active
+85860,Ammonium hydroxide,Valid,Ammonium hydroxide ((NH4)(OH)),Ammonium hydroxide,1336-21-6,,,H5NO,Active
+179606,Ammonium sulfide,Valid,Ammonium sulfide ((NH4)2S),Ammonium sulfide,12135-76-1,,,H8N2S,Active
+295931,Zinc ammonium chloride,Valid,Ammonium zinc chloride,Zinc ammonium chloride,52628-25-8,,,Cl.H4N.Zn,Active
+248807,Tartrated antimony,Valid,"Antimonate(2-), bis[.mu.-[2,3-di(hydroxy-.kappa.O)butanedioato(4-)-.kappa.O1:.kappa.O4]]di-, dipotassium, trihydrate, stereoisomer",Antimony potassium tartrate,28300-74-5,,,C8H4O12Sb2.3H2O.2K,Active
+248807,Antimony potassium tartrate,Valid,"Antimonate(2-), bis[.mu.-[2,3-di(hydroxy-.kappa.O)butanedioato(4-)-.kappa.O1:.kappa.O4]]di-, dipotassium, trihydrate, stereoisomer",Antimony potassium tartrate,28300-74-5,,,C8H4O12Sb2.3H2O.2K,Active
+248807,Potassium antimonyltartrate,Valid,"Antimonate(2-), bis[.mu.-[2,3-di(hydroxy-.kappa.O)butanedioato(4-)-.kappa.O1:.kappa.O4]]di-, dipotassium, trihydrate, stereoisomer",Antimony potassium tartrate,28300-74-5,,,C8H4O12Sb2.3H2O.2K,Active
+248807,Tartar emetic,Valid,"Antimonate(2-), bis[.mu.-[2,3-di(hydroxy-.kappa.O)butanedioato(4-)-.kappa.O1:.kappa.O4]]di-, dipotassium, trihydrate, stereoisomer",Antimony potassium tartrate,28300-74-5,,,C8H4O12Sb2.3H2O.2K,Active
+248807,Tartarized antimony,Valid,"Antimonate(2-), bis[.mu.-[2,3-di(hydroxy-.kappa.O)butanedioato(4-)-.kappa.O1:.kappa.O4]]di-, dipotassium, trihydrate, stereoisomer",Antimony potassium tartrate,28300-74-5,,,C8H4O12Sb2.3H2O.2K,Active
+152280,Antimony pentachloride,Valid,Antimony chloride (SbCl5),Antimony pentachloride,7647-18-9,,,Cl5Sb,Active
+82545,Diantimony trioxide,Valid,Antimony oxide (Sb2O3),Antimony trioxide,1309-64-4,,,O3Sb2,Active
+82545,Flowers of antimony,Valid,Antimony oxide (Sb2O3),Antimony trioxide,1309-64-4,,,O3Sb2,Active
+82545,Antimony trioxide,Valid,Antimony oxide (Sb2O3),Antimony trioxide,1309-64-4,,,O3Sb2,Active
+183020,Aroclor,Valid,Aroclor,Aroclor (unspecified),12767-79-2,,,Unspecified,
+155101,Sodium metaarsenite,Valid,"Arsenenous acid, sodium salt (1:1)",Sodium arsenite,7784-46-5,,,AsHO2.Na,Active
+155101,Sodium arsenite,Valid,"Arsenenous acid, sodium salt (1:1)",Sodium arsenite,7784-46-5,,,AsHO2.Na,Active
+153890,Tricalcium orthoarsenate,Valid,"Arsenic acid (H3AsO4), calcium salt (2:3)",Calcium arsenate,7778-44-1,,,AsH3O4.3/2Ca,Active
+153890,Calcium arsenate,Valid,"Arsenic acid (H3AsO4), calcium salt (2:3)",Calcium arsenate,7778-44-1,,,AsH3O4.3/2Ca,Active
+155069,Lead arsenate,Valid,"Arsenic acid (H3AsO4), lead(2+) salt (1:1)",Lead(II) arsenate (1:1),7784-40-9,,,AsH3O4.Pb,Active
+167940,Lead arsenate,Valid,"Arsenic acid (H3AsO4), lead(4+) salt (3:2)",Lead(IV) arsenate (2:3),10102-48-4,,,AsH3O4.2/3Pb,Active
+155077,Potassium arsenate,Valid,"Arsenic acid (H3AsO4), potassium salt (1:1)",Potassium arsenate,7784-41-0,,,AsH3O4.K,Active
+151985,Disodium arsenate,Valid,"Arsenic acid (H3AsO4), sodium salt (1:?)",Sodium arsenate,7631-89-2,,,AsH3O4.xNa,Active
+151985,Sodium arsenate,Valid,"Arsenic acid (H3AsO4), sodium salt (1:?)",Sodium arsenate,7631-89-2,,,AsH3O4.xNa,Active
+84749,Arsenious acid,Valid,Arsenic oxide (As2O3),Arsenic(III) trioxide,1327-53-3,,,As2O3,Active
+84749,Arsenious oxide,Valid,Arsenic oxide (As2O3),Arsenic(III) trioxide,1327-53-3,,,As2O3,Active
+84749,White arsenic,Valid,Arsenic oxide (As2O3),Arsenic(III) trioxide,1327-53-3,,,As2O3,Active
+84749,Arsenic trioxide,Valid,Arsenic oxide (As2O3),Arsenic(III) trioxide,1327-53-3,,,As2O3,Active
+82057,Arsenic oxide,Ambiguous,Arsenic oxide (As2O5),Arsenic(V) pentoxide,1303-28-2,,,As.O,Active
+82057,Arsenic pentoxide,Valid,Arsenic oxide (As2O5),Arsenic(V) pentoxide,1303-28-2,,,As.O,Active
+82057,Arsenic acid anhydride,Valid,Arsenic oxide (As2O5),Arsenic(V) pentoxide,1303-28-2,,,As.O,Active
+82073,Yellow arsenic sulfide,Valid,Arsenic sulfide (As2S3),Arsenic trisulfide,1303-33-9,,,As2S3,Active
+82073,Arsenic trisulfide,Valid,Arsenic sulfide (As2S3),Arsenic trisulfide,1303-33-9,,,As2S3,Active
+82073,Arsenious sulfide,Valid,Arsenic sulfide (As2S3),Arsenic trisulfide,1303-33-9,,,As2S3,Active
+155036,Butter of arsenic,Valid,Arsenous trichloride,Arsenic(III) chloride,7784-34-1,,,AsCl3,Active
+155036,Arsenious chloride,Valid,Arsenous trichloride,Arsenic(III) chloride,7784-34-1,,,AsCl3,Active
+155036,Arsenic trichloride,Valid,Arsenous trichloride,Arsenic(III) chloride,7784-34-1,,,AsCl3,Active
+155036,Arsenic chloride,Ambiguous,Arsenous trichloride,Arsenic(III) chloride,7784-34-1,,,AsCl3,Active
+155036,Arsenous chloride,Valid,Arsenous trichloride,Arsenic(III) chloride,7784-34-1,,,AsCl3,Active
+776005,Arsenic disulfide,Valid,"Arsino, thioxo-",Arsenic sulfide (AsS),12044-79-0,,,AsS,Active
+776005,Red arsenic sulfide,Valid,"Arsino, thioxo-",Arsenic sulfide (AsS),12044-79-0,,,AsS,Active
+296491,Calcium arsenite,Valid,"Arsonic acid, calcium salt (1:1)",Calcium arsenite,52740-16-6,,,AsH3O3.Ca,Active
+168351,Potassium metaarsenite,Valid,"Arsonic acid, potassium salt",Potassium arsenite,10124-50-2,,,AsH3O3.xK,Active
+168351,Potassium arsenite,Valid,"Arsonic acid, potassium salt",Potassium arsenite,10124-50-2,,,AsH3O3.xK,Active
+52423,Barium cyanide,Valid,Barium cyanide (Ba(CN)2),Barium cyanide,542-62-1,,,C2BaN2,Active
+3632,Kyanol,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+3632,Phenylamine,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+3632,Aniline,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+3632,Aminobenzene,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+3632,Aminophen,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+3632,Aniline oil,Valid,Benzenamine,Aniline,62-53-3,,,C6H7N,Active
+4754,Cyclohexatriene,Valid,Benzene,Benzene,71-43-2,,,C6H6,Active
+4754,Benzol,Valid,Benzene,Benzene,71-43-2,,,C6H6,Active
+4754,Benzene,Valid,Benzene,Benzene,71-43-2,,,C6H6,Active
+19430,Benzyl chloride,Valid,"Benzene, (chloromethyl)-",Benzyl chloride,100-44-7,,,C7H7Cl,Active
+1107,DDT,Valid,"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-chloro-","p,p'-DDT",50-29-3,,,C14H9Cl5,Active
+1107,"p,p'-DDT",Valid,"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-chloro-","p,p'-DDT",50-29-3,,,C14H9Cl5,Active
+4903,Methoxychlor,Valid,"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-methoxy-",Methoxychlor,72-43-5,,,C16H15Cl3O2,Active
+4903,DMDT,Valid,"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-methoxy-",Methoxychlor,72-43-5,,,C16H15Cl3O2,Active
+4903,Methoxy-DDT,Valid,"Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-methoxy-",Methoxychlor,72-43-5,,,C16H15Cl3O2,Active
+4937,TDE,Valid,"Benzene, 1,1'-(2,2-dichloroethylidene)bis[4-chloro-","p,p'-DDD",72-54-8,,,C14H10Cl4,Active
+4937,DDD,Valid,"Benzene, 1,1'-(2,2-dichloroethylidene)bis[4-chloro-","p,p'-DDD",72-54-8,,,C14H10Cl4,Active
+16162,ortho-Dichlorobenzene,Valid,"Benzene, 1,2-dichloro-",o-Dichlorobenzene,95-50-1,,,C6H4Cl2,Active
+16139,o-Xylene,Valid,"Benzene, 1,2-dimethyl-",o-Xylene,95-47-6,,,C8H10,Active
+50344,o-Dinitrobenzene,Valid,"Benzene, 1,2-dinitro-",o-Dinitrobenzene,528-29-0,,,C6H4N2O4,Active
+25056,m-Xylene,Valid,"Benzene, 1,3-dimethyl-",m-Xylene,108-38-3,,,C8H10,Active
+18846,m-Dinitrobenzene,Valid,"Benzene, 1,3-dinitro-",m-Dinitrobenzene,99-65-0,,,C6H4N2O4,Active
+23622,Paramoth (Para),Valid,"Benzene, 1,4-dichloro-",p-Dichlorobenzene,106-46-7,,,C6H4Cl2,Active
+23622,para-Dichlorobenzene,Valid,"Benzene, 1,4-dichloro-",p-Dichlorobenzene,106-46-7,,,C6H4Cl2,Active
+23622,Di-chloricide,Valid,"Benzene, 1,4-dichloro-",p-Dichlorobenzene,106-46-7,,,C6H4Cl2,Active
+23580,p-Xylene,Valid,"Benzene, 1,4-dimethyl-",p-Xylene,106-42-3,,,C8H10,Active
+19307,p-Dinitrobenzene,Valid,"Benzene, 1,4-dinitro-",p-Dinitrobenzene,100-25-4,,,C6H4N2O4,Active
+31575,"2,4-Dinitrotoluene",Valid,"Benzene, 1-methyl-2,4-dinitro-","2,4-Dinitrotoluene",121-14-2,,,C7H6N2O4,Active
+11973,ortho-Nitrotoluene,Valid,"Benzene, 1-methyl-2-nitro-",o-Nitrotoluene,88-72-2,,,C7H7NO2,Active
+18499,meta-Nitrotoluene,Valid,"Benzene, 1-methyl-3-nitro-",m-Nitrotoluene,99-08-1,,,C7H7NO2,Active
+19083,para-Nitrotoluene,Valid,"Benzene, 1-methyl-4-nitro-",p-Nitrotoluene,99-99-0,,,C7H7NO2,Active
+58875,"2,6-Dinitrotoluene",Valid,"Benzene, 2-methyl-1,3-dinitro-","2,6-Dinitrotoluene",606-20-2,,,C7H6N2O4,Active
+59675,"3,4-Dinitrotoluene",Valid,"Benzene, 4-methyl-1,2-dinitro-","3,4-Dinitrotoluene",610-39-9,,,C7H6N2O4,Active
+25478,Benzene chloride,Valid,"Benzene, chloro-",Chlorobenzene,108-90-7,,,C6H5Cl,Active
+25478,Chlorobenzene,Valid,"Benzene, chloro-",Chlorobenzene,108-90-7,,,C6H5Cl,Active
+25478,Monochlorobenzene,Valid,"Benzene, chloro-",Chlorobenzene,108-90-7,,,C6H5Cl,Active
+231902,Dichlorobenzene,Valid,"Benzene, dichloro-",Dichlorobenzene,25321-22-6,,,C6H4Cl2,Active
+84970,Xylol,Valid,"Benzene, dimethyl-",Xylene,1330-20-7,,,C8H10,Active
+84970,Dimethylbenzene,Valid,"Benzene, dimethyl-",Xylene,1330-20-7,,,C8H10,Active
+84970,Xylene (mixed),Valid,"Benzene, dimethyl-",Xylene,1330-20-7,,,C8H10,Active
+230326,Dinitrobenzol,Valid,"Benzene, dinitro-",Dinitrobenzene,25154-54-5,,,C6H4N2O4,Active
+230326,Dinitrobenzene (mixed),Valid,"Benzene, dinitro-",Dinitrobenzene,25154-54-5,,,C6H4N2O4,Active
+19414,Styrene,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Cinnamene,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Cinnamol,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Phenylethylene,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Styrol,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Styrolene,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19414,Vinylbenzene,Valid,"Benzene, ethenyl-",Styrene,100-42-5,,,C8H8,Active
+19406,Phenylethane,Valid,"Benzene, ethyl-",Ethylbenzene,100-41-4,,,C8H10,Active
+19406,Ethylbenzene,Valid,"Benzene, ethyl-",Ethylbenzene,100-41-4,,,C8H10,Active
+25452,Toluol,Valid,"Benzene, methyl-",Toluene,108-88-3,,,C7H8,Active
+25452,Toluene,Valid,"Benzene, methyl-",Toluene,108-88-3,,,C7H8,Active
+25452,Methacide,Valid,"Benzene, methyl-",Toluene,108-88-3,,,C7H8,Active
+25452,Methylbenzene,Valid,"Benzene, methyl-",Toluene,108-88-3,,,C7H8,Active
+25452,Phenylmethane,Valid,"Benzene, methyl-",Toluene,108-88-3,,,C7H8,Active
+231894,DNT,Valid,"Benzene, methyldinitro-",Dinitrotoluene,25321-14-6,,,C7H6N2O4,Active
+231894,Dinitrotoluene,Valid,"Benzene, methyldinitro-",Dinitrotoluene,25321-14-6,,,C7H6N2O4,Active
+83691,Nitrotoluene,Valid,"Benzene, methylnitro-",Nitrotoluene,1321-12-6,,,C7H7NO2,Active
+18408,Oil of mirbane,Valid,"Benzene, nitro-",Nitrobenzene,98-95-3,,,C6H5NO2,Active
+18408,Nitrobenzene,Valid,"Benzene, nitro-",Nitrobenzene,98-95-3,,,C6H5NO2,Active
+18408,Nitrobenzol,Valid,"Benzene, nitro-",Nitrobenzene,98-95-3,,,C6H5NO2,Active
+10025,n/Butyl phthalate,Misspelled,"1,2-Benzenedicarboxylic acid, 1,2-dibutyl ester",Dibutyl phthalate,84-74-2,,,C16H22O4,Active
+10025,Dibutyl phthalate,Valid,"1,2-Benzenedicarboxylic acid, 1,2-dibutyl ester",Dibutyl phthalate,84-74-2,,,C16H22O4,Active
+10025,"1.2-Benzenedicarboxylic acid, dibutyl ester",Valid,"1,2-Benzenedicarboxylic acid, 1,2-dibutyl ester",Dibutyl phthalate,84-74-2,,,C16H22O4,Active
+25130,Resorcin,Valid,"1,3-Benzenediol",Resorcinol,108-46-3,,,C6H6O2,Active
+25130,"1,3-Benzenediol",Valid,"1,3-Benzenediol",Resorcinol,108-46-3,,,C6H6O2,Active
+25130,Resorcinol,Valid,"1,3-Benzenediol",Resorcinol,108-46-3,,,C6H6O2,Active
+25130,meta-Dihydroxybenzene,Valid,"1,3-Benzenediol",Resorcinol,108-46-3,,,C6H6O2,Active
+29157,DTMC,Valid,"Benzenemethanol, 4-chloro-.alpha.-(4-chlorophenyl)-.alpha.-(trichloromethyl)-",Dicofol,115-32-2,,,C14H9Cl5O,Active
+29157,Kelthane,Trade Name,"Benzenemethanol, 4-chloro-.alpha.-(4-chlorophenyl)-.alpha.-(trichloromethyl)-",Dicofol,115-32-2,,,C14H9Cl5O,Active
+29157,Dicofol,Valid,"Benzenemethanol, 4-chloro-.alpha.-(4-chlorophenyl)-.alpha.-(trichloromethyl)-",Dicofol,115-32-2,,,C14H9Cl5O,Active
+29157,Di(p-chlorophenyl)trichloromethylcarbinol,Valid,"Benzenemethanol, 4-chloro-.alpha.-(4-chlorophenyl)-.alpha.-(trichloromethyl)-",Dicofol,115-32-2,,,C14H9Cl5O,Active
+34413,Zinc sulfocarbolate,Valid,"Benzenesulfonic acid, 4-hydroxy-, zinc salt (2:1)",Zinc phenolsulfonate,127-82-2,,,C6H6O4S.1/2Zn,Active
+34413,Zinc phenolsulfonate,Valid,"Benzenesulfonic acid, 4-hydroxy-, zinc salt (2:1)",Zinc phenolsulfonate,127-82-2,,,C6H6O4S.1/2Zn,Active
+244327,Dodecylbenzenesulfonic acid,Valid,"Benzenesulfonic acid, dodecyl-",Dodecylbenzenesulfonic acid,27176-87-0,,,C18H30O3S,Active
+238014,Calcium dodecylbenzenesulfonate,Valid,"Benzenesulfonic acid, dodecyl-, calcium salt (2:1)",Calcium dodecylbenzenesulfonate,26264-06-2,,,C18H30O3S.1/2Ca,Active
+285593,Isopropanolamine dodecylbenzenesulfonate,Valid,"Benzenesulfonic acid, dodecyl-, compd. with 1-amino-2-propanol (1:1)",Isopropanolamine dodecylbenzenesulfonate,42504-46-1,,,C18H30O3S.C3H9NO,Active
+245308,Triethanolamine dodecylbenzenesulfonate,Valid,"Benzenesulfonic acid, dodecyl-, compd. with 2,2',2''-nitrilotris[ethanol] (1:1)",Triethanolamine dodecylbenzenesulfonate,27323-41-7,,,C18H30O3S.C6H15NO3,Active
+230425,Sodium dodecylbenzene-sulfonate,Valid,"Benzenesulfonic acid, dodecyl-, sodium salt (1:1)",Sodium dodecylbenzenesulfonate,25155-30-0,,,C18H30O3S.Na,Active
+88666,Furadan,Trade Name,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-, 7-(N-methylcarbamate)",Carbofuran,1563-66-2,,,C12H15NO3,Active
+88666,Carbofuran,Valid,"7-Benzofuranol, 2,3-dihydro-2,2-dimethyl-, 7-(N-methylcarbamate)",Carbofuran,1563-66-2,,,C12H15NO3,Active
+4044,Phenylformic acid,Valid,Benzoic acid,Benzoic acid,65-85-0,,,C7H6O2,Active
+4044,Benzoic acid,Valid,Benzoic acid,Benzoic acid,65-85-0,,,C7H6O2,Active
+4044,Benzenecarboxylic acid,Valid,Benzoic acid,Benzoic acid,65-85-0,,,C7H6O2,Active
+4044,Dracylic acid,Valid,Benzoic acid,Benzoic acid,65-85-0,,,C7H6O2,Active
+94219,"2-Methoxy-3,6-dichlorobenzoic acid",Valid,"Benzoic acid, 3,6-dichloro-2-methoxy-",Dicamba,1918-00-9,,,C8H6Cl2O3,Active
+94219,Dicamba,Valid,"Benzoic acid, 3,6-dichloro-2-methoxy-",Dicamba,1918-00-9,,,C8H6Cl2O3,Active
+93559,Ammonium benzoate,Valid,"Benzoic acid, ammonium salt (1:1)",Ammonium benzoate,1863-63-4,,,C7H6O2.H3N,Active
+19455,Phenyl cyanide,Valid,Benzonitrile,Benzonitrile,100-47-0,,,C7H5N,Active
+19455,Benzonitrile,Valid,Benzonitrile,Benzonitrile,100-47-0,,,C7H5N,Active
+19455,Cyanobenzene,Valid,Benzonitrile,Benzonitrile,100-47-0,,,C7H5N,Active
+80754,"2,6-DBN",Valid,"Benzonitrile, 2,6-dichloro-",Dichlobenil,1194-65-6,,,C7H3Cl2N,Active
+80754,Dichlobenil,Valid,"Benzonitrile, 2,6-dichloro-",Dichlobenil,1194-65-6,,,C7H3Cl2N,Active
+80754,"2,6-Dichlorobenzonitrile",Valid,"Benzonitrile, 2,6-dichloro-",Dichlobenil,1194-65-6,,,C7H3Cl2N,Active
+18358,Benzenecarbonyl chloride,Valid,Benzoyl chloride,Benzoyl chloride,98-88-4,,,C7H5ClO,Active
+18358,Benzoyl chloride,Valid,Benzoyl chloride,Benzoyl chloride,98-88-4,,,C7H5ClO,Active
+155440,Beryllium chloride,Valid,Beryllium chloride (BeCl2),Beryllium chloride,7787-47-5,,,BeCl2,Active
+155457,Beryllium fluoride,Valid,Beryllium fluoride (BeF2),Beryllium difluoride,7787-49-7,,,BeF2,Active
+85878,Polychlorinated diphenyls,Valid,"1,1'-Biphenyl, chloro derivs.",Polychlorinated biphenyls,1336-36-3,,,Unspecified,Active
+85878,Polychorinated biphenyls,Valid,"1,1'-Biphenyl, chloro derivs.",Polychlorinated biphenyls,1336-36-3,,,Unspecified,Active
+85878,PCB,Valid,"1,1'-Biphenyl, chloro derivs.",Polychlorinated biphenyls,1336-36-3,,,Unspecified,Active
+191775,Ammonium fluoroborate,Valid,"Borate(1-), tetrafluoro-, ammonium (1:1)",Ammonium fluoroborate,13826-83-0,,,BF4.H4N,Active
+191775,Ammonium borofluoride,Valid,"Borate(1-), tetrafluoro-, ammonium (1:1)",Ammonium fluoroborate,13826-83-0,,,BF4.H4N,Active
+191775,Ammonium fluoborate,Valid,"Borate(1-), tetrafluoro-, ammonium (1:1)",Ammonium fluoroborate,13826-83-0,,,BF4.H4N,Active
+191437,Lead fluoborate,Valid,"Borate(1-), tetrafluoro-, lead(2+) (2:1)",Lead fluoroborate,13814-96-5,,,BF4.1/2Pb,Active
+191437,Lead fluoroborate,Valid,"Borate(1-), tetrafluoro-, lead(2+) (2:1)",Lead fluoroborate,13814-96-5,,,BF4.1/2Pb,Active
+85241,Zinc borate,Valid,"Boric acid, zinc salt",Zinc borate,1332-07-6,,,Unspecified,Active
+7328,"2-Methyl-1,3-butadiene",Valid,"1,3-Butadiene, 2-methyl-",Isoprene,78-79-5,,,C5H8,Active
+7328,Isoprene,Valid,"1,3-Butadiene, 2-methyl-",Isoprene,78-79-5,,,C5H8,Active
+26088,1-Aminobutane,Valid,1-Butanamine,Butylamine,109-73-9,,,C4H11N,Active
+192641,sec-Butylamine,Valid,2-Butanamine,sec-Butylamine,13952-84-6,,,C4H11N,Active
+26088,Butylamine,Valid,1-Butanamine,Butylamine,109-73-9,,,C4H11N,Active
+49528,sec-Butylamine,Valid,"2-Butanamine, (2S)-",(S)-2-Aminobutane,513-49-5,,,C4H11N,Active
+112540,Tartaric acid ammonium salt,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, ammonium salt (1:2)",Diammonium tartrate,3164-29-2,,,C4H6O6.2H3N,Active
+112540,Ammonium tartrate,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, ammonium salt (1:2)",Diammonium tartrate,3164-29-2,,,C4H6O6.2H3N,Active
+194811,Tartaric acid ammonium salt,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, ammonium salt (1:?)",Ammonium tartrate,14307-43-8,,,C4H6O6.xH3N,Active
+194811,Ammonium tartrate,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, ammonium salt (1:?)",Ammonium tartrate,14307-43-8,,,C4H6O6.xH3N,Active
+70920,Copper tartrate,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, copper(2+) salt (1:1)",Cupric tartrate,815-82-7,,,C4H6O6.Cu,Active
+70920,Cupric tartrate,Valid,"Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, copper(2+) salt (1:1)",Cupric tartrate,815-82-7,,,C4H6O6.Cu,Active
+31922,Malathion,Valid,"Butanedioic acid, [(dimethoxyphosphinothioyl)thio]-, diethyl ester",Malathion,121-75-5,,,C10H19O6PS2,Active
+31922,Phospothion,Valid,"Butanedioic acid, [(dimethoxyphosphinothioyl)thio]-, diethyl ester",Malathion,121-75-5,,,C10H19O6PS2,Active
+24729,Ethylacetic acid,Valid,Butanoic acid,Butyric acid,107-92-6,,,C4H8O2,Active
+24729,Butanoic acid,Valid,Butanoic acid,Butyric acid,107-92-6,,,C4H8O2,Active
+24729,Butyric acid,Valid,Butanoic acid,Butyric acid,107-92-6,,,C4H8O2,Active
+63412,tert-Amyl acetate,Valid,"2-Butanol, 2-methyl-, acetate",tert-Amyl acetate,625-16-1,,,C7H14O2,Active
+33258,Pear oil,Inaccurate,"1-Butanol, 3-methyl-, 1-acetate",Isoamyl acetate,123-92-2,,,C7H14O2,Active
+33258,iso-Amyl acetate,Valid,"1-Butanol, 3-methyl-, 1-acetate",Isoamyl acetate,123-92-2,,,C7H14O2,Active
+33258,Banana oil,Inaccurate,"1-Butanol, 3-methyl-, 1-acetate",Isoamyl acetate,123-92-2,,,C7H14O2,Active
+122135,Propylene aldehyde,Valid,2-Butenal,Crotonaldehyde,4170-30-3,,,C4H6O,Active
+122135,Crotonaldehyde,Valid,2-Butenal,Crotonaldehyde,4170-30-3,,,C4H6O,Active
+122135,2-Butenal,Valid,2-Butenal,Crotonaldehyde,4170-30-3,,,C4H6O,Active
+26450,"trans-1,2-Ethylenedicarboxylic acid",Valid,2-Butenedioic acid (2E)-,Fumaric acid,110-17-8,,,C4H4O4,Active
+26450,Fumaric acid,Valid,2-Butenedioic acid (2E)-,Fumaric acid,110-17-8,,,C4H4O4,Active
+26450,trans-Butenedioic acid,Valid,2-Butenedioic acid (2E)-,Fumaric acid,110-17-8,,,C4H4O4,Active
+26450,Allomaleic acid,Valid,2-Butenedioic acid (2E)-,Fumaric acid,110-17-8,,,C4H4O4,Active
+26450,Boletic acid,Valid,2-Butenedioic acid (2E)-,Fumaric acid,110-17-8,,,C4H4O4,Active
+26443,Toxilic acid,Valid,2-Butenedioic acid (2Z)-,Maleic acid,110-16-7,,,C4H4O4,Active
+26443,cis-Butenedioic acid,Valid,2-Butenedioic acid (2Z)-,Maleic acid,110-16-7,,,C4H4O4,Active
+26443,Maleic acid,Valid,2-Butenedioic acid (2Z)-,Maleic acid,110-16-7,,,C4H4O4,Active
+26443,"cis-1,2-Ethylenedicarboxylic acid",Valid,2-Butenedioic acid (2Z)-,Maleic acid,110-16-7,,,C4H4O4,Active
+155309,Phosdrin,Valid,"2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-, methyl ester",Mevinphos,7786-34-7,,,C7H13O6P,Active
+155309,Mevinphos,Valid,"2-Butenoic acid, 3-[(dimethoxyphosphinyl)oxy]-, methyl ester",Mevinphos,7786-34-7,,,C7H13O6P,Active
+173666,Paris green,Valid,C.I. Pigment Green 21,Cupric acetoarsenite,12002-03-8,,,Unspecified,Active
+173666,Cupric acetoarsenite,Valid,C.I. Pigment Green 21,Cupric acetoarsenite,12002-03-8,,,Unspecified,Active
+173666,Copper acetate arsenite,Valid,C.I. Pigment Green 21,Cupric acetoarsenite,12002-03-8,,,Unspecified,Active
+173666,Copper acetoarsenite,Valid,C.I. Pigment Green 21,Cupric acetoarsenite,12002-03-8,,,Unspecified,Active
+155846,Cadmium bromide,Valid,Cadmium bromide (CdBr2),Cadmium bromide,7789-42-6,,,Br2Cd,Active
+168096,Cadmium chloride,Valid,Cadmium chloride (CdCl2),Cadmium dichloride,10108-64-2,,,CdCl2,Active
+5397,Carbide,Ambiguous,Calcium carbide (Ca(C2)),Calcium carbide,75-20-7,,,C2Ca,Active
+5397,Calcium carbide,Valid,Calcium carbide (Ca(C2)),Calcium carbide,75-20-7,,,C2Ca,Active
+5397,Acetylenogen,Valid,Calcium carbide (Ca(C2)),Calcium carbide,75-20-7,,,C2Ca,Active
+57059,Calcium cyanide,Valid,Calcium cyanide (Ca(CN)2),Calcium cyanide,592-01-8,,,C2CaN2,Active
+82255,Calcium hydroxide,Valid,Calcium hydroxide (Ca(OH)2),Calcium hydroxide,1305-62-0,,,CaH2O2,Inactive
+82263,Calcium oxide,Valid,Calcium oxide (CaO),Calcium oxide,1305-78-8,,,CaO,Inactive
+78162,Ammonium carbamate,Valid,"Carbamic acid, ammonium salt (1:1)",Ammonium carbamate,1111-78-0,,,CH3NO2.H3N,Active
+78162,Ammonium aminoformate,Valid,"Carbamic acid, ammonium salt (1:1)",Ammonium carbamate,1111-78-0,,,CH3NO2.H3N,Active
+5348,Carbon disulfide,Valid,Carbon disulfide,Carbon disulfide,75-15-0,,,CS2,Active
+5348,Dithiocarbonic anhydride,Valid,Carbon disulfide,Carbon disulfide,75-15-0,,,CS2,Active
+5348,Carbon bisulfide,Valid,Carbon disulfide,Carbon disulfide,75-15-0,,,CS2,Active
+76968,Ammonium hydrogen carbonate,Valid,"Carbonic acid, ammonium salt (1:1)",Ammonium bicarbonate,1066-33-7,,,CH2O3.H3N,Active
+76968,Acid ammonium carbonate,Valid,"Carbonic acid, ammonium salt (1:1)",Ammonium bicarbonate,1066-33-7,,,CH2O3.H3N,Active
+76968,Ammonium bicarbonate,Valid,"Carbonic acid, ammonium salt (1:1)",Ammonium bicarbonate,1066-33-7,,,CH2O3.H3N,Active
+49106,Ammonium carbonate,Valid,"Carbonic acid, ammonium salt (1:2)",Ammonium carbonate,506-87-6,,,CH2O3.2H3N,Active
+116202,Zinc carbonate,Valid,"Carbonic acid, zinc salt (1:1)",Zinc carbonate,3486-35-9,,,CH2O3.Zn,Active
+5587,Phosgene,Valid,Carbonic dichloride,Phosgene,75-44-5,,,CCl2O,Active
+5587,Chloroformyl chloride,Valid,Carbonic dichloride,Phosgene,75-44-5,,,CCl2O,Active
+5587,Carbonyl chloride,Valid,Carbonic dichloride,Phosgene,75-44-5,,,CCl2O,Active
+5587,Diphosgene,Inaccurate,Carbonic dichloride,Phosgene,75-44-5,,,CCl2O,Active
+154328,Chlorine,Valid,Chlorine,Chlorine,7782-50-5,,,Cl2,Active
+156380,Chlorosulfonic acid,Valid,Chlorosulfuric acid,Chlorosulfonic acid,7790-94-5,,,ClHO3S,Active
+156380,Sulfuric chlorohydrin,Valid,Chlorosulfuric acid,Chlorosulfonic acid,7790-94-5,,,ClHO3S,Active
+155663,Ammonium bichromate,Valid,"Chromic acid (H2Cr2O7), ammonium salt (1:2)",Ammonium dichromate(VI),7789-09-5,,,Cr2H2O7.2H3N,Active
+153916,Potassium bichromate,Valid,"Chromic acid (H2Cr2O7), potassium salt (1:2)",Potassium dichromate,7778-50-9,,,Cr2H2O7.2K,Active
+153916,Potassium dichromate,Valid,"Chromic acid (H2Cr2O7), potassium salt (1:2)",Potassium dichromate,7778-50-9,,,Cr2H2O7.2K,Active
+172593,Sodium dichromate,Valid,"Chromic acid (H2Cr2O7), sodium salt (1:2)",Sodium dichromate,10588-01-9,,,Cr2H2O7.2Na,Active
+172593,Sodium bichromate,Valid,"Chromic acid (H2Cr2O7), sodium salt (1:2)",Sodium dichromate,10588-01-9,,,Cr2H2O7.2Na,Active
+153213,Chromic acid,Valid,Chromic acid (H2CrO4),Chromic(VI) acid,7738-94-5,,,CrH2O4,Active
+155622,Ammonium chromate,Valid,"Chromic acid (H2CrO4), ammonium salt (1:2)",Ammonium chromate,7788-98-9,,,CrH2O4.2H3N,Active
+190694,Yellow ultramarine,Valid,"Chromic acid (H2CrO4), calcium salt (1:1)",Calcium chromate,13765-19-0,,,Ca.CrH2O4,Active
+190694,Calcium chromate,Valid,"Chromic acid (H2CrO4), calcium salt (1:1)",Calcium chromate,13765-19-0,,,Ca.CrH2O4,Active
+190694,Calcium chrome yellow,Valid,"Chromic acid (H2CrO4), calcium salt (1:1)",Calcium chromate,13765-19-0,,,Ca.CrH2O4,Active
+190694,Geblin,Unknown,"Chromic acid (H2CrO4), calcium salt (1:1)",Calcium chromate,13765-19-0,,,Ca.CrH2O4,Active
+194803,Lithium chromate,Valid,"Chromic acid (H2CrO4), lithium salt (1:2)",Lithium chromate,14307-35-8,,,CrH2O4.2Li,Active
+155630,Potassium chromate,Valid,"Chromic acid (H2CrO4), potassium salt (1:2)",Potassium chromate(VI),7789-00-6,,,CrH2O4.2K,Active
+153775,Sodium chromate,Valid,"Chromic acid (H2CrO4), sodium salt (1:2)",Sodium chromate(VI),7775-11-3,,,CrH2O4.2Na,Active
+155655,Strontium chromate,Valid,"Chromic acid (H2CrO4), strontium salt (1:1)",Strontium chromate,7789-06-2,,,CrH2O4.Sr,Active
+167304,Chromous chloride,Valid,Chromium chloride (CrCl2),Chromium(II) chloride,10049-05-5,,,Cl2Cr,Active
+85571,Chromium trioxide,Valid,Chromium oxide (CrO3),Chromium(VI) trioxide,1333-82-0,,,CrO3,
+85571,Chromic anhydride,Valid,Chromium oxide (CrO3),Chromium(VI) trioxide,1333-82-0,,,CrO3,
+155853,Cobalt bromide,Valid,Cobalt bromide (CoBr2),Cobalt bromide,7789-43-7,,,Br2Co,Active
+155853,Cobaltous bromide,Valid,Cobalt bromide (CoBr2),Cobalt bromide,7789-43-7,,,Br2Co,Active
+150508,Copper chloride,Valid,Copper chloride (CuCl2),Cupric chloride,7447-39-4,,,Cl2Cu,Active
+150508,Cupric chloride,Valid,Copper chloride (CuCl2),Cupric chloride,7447-39-4,,,Cl2Cu,Active
+170902,Ammoniated copper sulfate,Valid,"Copper(2+), tetraammine-, sulfate (1:1), monohydrate","Ammoniated cupric sulfate, monohydrate",10380-29-7,,,CuH12N4.H2O.O4S,Active
+170902,"Cupric sulfate, ammoniated",Valid,"Copper(2+), tetraammine-, sulfate (1:1), monohydrate","Ammoniated cupric sulfate, monohydrate",10380-29-7,,,CuH12N4.H2O.O4S,Active
+49072,Cyanogen chloride,Valid,Cyanogen chloride ((CN)Cl),Cyanogen chloride,506-77-4,,,CClN,Active
+27003,Hexanaphthene,Valid,Cyclohexane,Cyclohexane,110-82-7,,,C6H12,Active
+27003,Cyclohexane,Valid,Cyclohexane,Cyclohexane,110-82-7,,,C6H12,Active
+27003,Hexahydrobenzene,Valid,Cyclohexane,Cyclohexane,110-82-7,,,C6H12,Active
+27003,Hexamethylene,Valid,Cyclohexane,Cyclohexane,110-82-7,,,C6H12,Active
+2923,.gamma.-Benzene hexachloride,Valid,"Cyclohexane, 1,2,3,4,5,6-hexachloro-, (1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha.,6.beta.)-",Lindane,58-89-9,,,C6H6Cl6,Active
+2923,Lindane,Valid,"Cyclohexane, 1,2,3,4,5,6-hexachloro-, (1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha.,6.beta.)-",Lindane,58-89-9,,,C6H6Cl6,Active
+2923,.gamma.-BHC,Valid,"Cyclohexane, 1,2,3,4,5,6-hexachloro-, (1.alpha.,2.alpha.,3.beta.,4.alpha.,5.alpha.,6.beta.)-",Lindane,58-89-9,,,C6H6Cl6,Active
+18366,Cyclohexanecarboxylic acid,Valid,Cyclohexanecarboxylic acid,Cyclohexanecarboxylic acid,98-89-5,,,C7H12O2,Active
+18366,Hexahydrobenzoic acid,Valid,Cyclohexanecarboxylic acid,Cyclohexanecarboxylic acid,98-89-5,,,C7H12O2,Active
+6494,Perchlorocyclopentadiene,Valid,"1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-",Hexachlorocyclopentadiene,77-47-4,,,C5Cl6,Active
+6494,Hexachlorocyclopentadiene,Valid,"1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-",Hexachlorocyclopentadiene,77-47-4,,,C5Cl6,Active
+31617,Pyrethrin I,Valid,"Cyclopropanecarboxylic acid, 2,2-dimethyl-3-(2-methyl-1-propenyl)-, (1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadienyl-2-cyclopenten-1-yl ester, (1R,3R)-",Pyrethrin I,121-21-1,,,C21H28O3,Active
+31633,Pyrethrin II,Valid,"Cyclopropanecarboxylic acid, 3-[(1E)-3-methoxy-2-methyl-3-oxo-1-propen-1-yl]-2,2-dimethyl-, (1S)-2-methyl-4-oxo-3-(2Z)-2,4-pentadien-1-yl-2-cyclopenten-1-yl ester, (1R,3R)-",Pyrethrin II,121-29-9,,,C22H28O5,Active
+755330,"2,4-D esters",Unknown,"2,4-D esters -- CWA 311",,,,E755330,,Active
+4887,Mendrin,Valid,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, (1aR,2R,2aR,3R,6S,6aS,7S,7aS)-rel-",Endrin,72-20-8,,,C12H8Cl6O,Active
+4887,Endrin,Valid,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, (1aR,2R,2aR,3R,6S,6aS,7S,7aS)-rel-",Endrin,72-20-8,,,C12H8Cl6O,Active
+4887,Compound 269,Valid,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, (1aR,2R,2aR,3R,6S,6aS,7S,7aS)-rel-",Endrin,72-20-8,,,C12H8Cl6O,Active
+3426,Alvit,Valid,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, (1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-",Dieldrin,60-57-1,,,C12H8Cl6O,Active
+3426,Dieldrin,Valid,"2,7:3,6-Dimethanonaphth[2,3-b]oxirene, 3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-, (1aR,2R,2aS,3S,6R,6aR,7S,7aS)-rel-",Dieldrin,60-57-1,,,C12H8Cl6O,Active
+42002,Octalene,Trade Name,"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.)-",Aldrin,309-00-2,,,C12H8Cl6,Active
+42002,Aldrin,Valid,"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.)-",Aldrin,309-00-2,,,C12H8Cl6,Active
+42002,HHDN,Valid,"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, (1.alpha.,4.alpha.,4a.beta.,5.alpha.,8.alpha.,8a.beta.)-",Aldrin,309-00-2,,,C12H8Cl6,Active
+24422,TEPP,Valid,"Diphosphoric acid, tetraethyl ester",Tetraethyl pyrophosphate,107-49-3,,,C8H20O7P2,Active
+24422,Tetraethyl pyrophosphate,Valid,"Diphosphoric acid, tetraethyl ester",Tetraethyl pyrophosphate,107-49-3,,,C8H20O7P2,Active
+107094,Diquat,Valid,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-",Diquat,2764-72-9,,,C12H12N2,Active
+10181,Diquat,Valid,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide",Diquat dibromide,85-00-7,,,C12H12N2.2Br,Active
+10181,Diquat dibromide,Valid,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide",Diquat dibromide,85-00-7,,,C12H12N2.2Br,Active
+10181,Aquacide,Trade Name,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide",Diquat dibromide,85-00-7,,,C12H12N2.2Br,Active
+10181,Dextrone,Trade Name,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide",Diquat dibromide,85-00-7,,,C12H12N2.2Br,Active
+10181,Reglone,Trade Name,"Dipyrido[1,2-a:2',1'-c]pyrazinediium, 6,7-dihydro-, dibromide",Diquat dibromide,85-00-7,,,C12H12N2.2Br,Active
+154187,Zinc hydrosulfite,Valid,"Dithionous acid, zinc salt (1:1)",Zinc hydrosulfite,7779-86-4,,,H2O4S2.Zn,Active
+5264,Aminoethane,Valid,Ethanamine,Ethylamine,75-04-7,,,C2H7N,Active
+5264,Ethylamine,Valid,Ethanamine,Ethylamine,75-04-7,,,C2H7N,Active
+5264,Monoethylamine,Valid,Ethanamine,Ethylamine,75-04-7,,,C2H7N,Active
+31708,Triethylamine,Valid,"Ethanamine, N,N-diethyl-",Triethylamine,121-44-8,,,C6H15N,Active
+26245,Diethylamine,Valid,"Ethanamine, N-ethyl-",Diethylamine,109-89-7,,,C4H11N,Active
+23986,Acetylene dibromide,Valid,"Ethane, 1,2-dibromo-",Ethylene dibromide,106-93-4,,,C2H4Br2,Active
+23986,sym-Dibromoethylene,Valid,"Ethane, 1,2-dibromo-",Ethylene dibromide,106-93-4,,,C2H4Br2,Active
+23986,Ethylene dibromide,Valid,"Ethane, 1,2-dibromo-",Ethylene dibromide,106-93-4,,,C2H4Br2,Active
+23986,"1,2-Dibromoethane",Valid,"Ethane, 1,2-dibromo-",Ethylene dibromide,106-93-4,,,C2H4Br2,Active
+24117,sym-Bichloroethane,Valid,"Ethane, 1,2-dichloro-","1,2-Dichloroethane",107-06-2,,,C2H4Cl2,Active
+24117,Ethylene dichloride,Valid,"Ethane, 1,2-dichloro-","1,2-Dichloroethane",107-06-2,,,C2H4Cl2,Active
+24117,"1,2-Dichloroethane",Valid,"Ethane, 1,2-dichloro-","1,2-Dichloroethane",107-06-2,,,C2H4Cl2,Active
+24208,"1,2-Diaminoethane",Valid,"1,2-Ethanediamine",Ethylenediamine,107-15-3,,,C2H8N2,Active
+24208,Ethylenediamine,Valid,"1,2-Ethanediamine",Ethylenediamine,107-15-3,,,C2H8N2,Active
+304329,Ferric ammonium oxalate,Valid,"Ethanedioic acid, ammonium iron salt (1:?:?)",Iron ammonium oxalate,55488-87-4,,,C2H2O4.xFe.xH3N,Active
+304329,Ammonium ferric oxalate,Valid,"Ethanedioic acid, ammonium iron salt (1:?:?)",Iron ammonium oxalate,55488-87-4,,,C2H2O4.xFe.xH3N,Active
+109264,Ferric ammonium oxalate,Valid,"Ethanedioic acid, ammonium iron(3+) salt (3:3:1)",Ferric ammonium oxalate (1:3:3),2944-67-4,,,C2H2O4.1/3Fe.H3N,Active
+194324,Ammonium oxalate,Valid,"Ethanedioic acid, ammonium salt (1:?)",Ammonium oxalate,14258-49-2,,,C2H2O4.xH3N,Active
+136804,Ammonium oxalate,Valid,"Ethanedioic acid, diammonium salt, monohydrate",Diammonium oxalate monohydrate,6009-70-7,,,C2H2O4.2H3N.H2O,Active
+136507,Ammonium oxalate,Valid,"Ethanedioic acid, monoammonium salt, monohydrate",Ammonium bioxalate monohydrate,5972-73-6,,,C2H2O4.H3N.H2O,Active
+7526,Ethylene trichloride,Valid,"Ethene, 1,1,2-trichloro-",Trichloroethylene,79-01-6,,,C2HCl3,Active
+7526,Trichlorethylene,Valid,"Ethene, 1,1,2-trichloro-",Trichloroethylene,79-01-6,,,C2HCl3,Active
+5538,"1,1-Dichloroethene",Valid,"Ethene, 1,1-dichloro-","1,1-Dichloroethylene",75-35-4,,,C2H2Cl2,Active
+5538,"1,1-Dichlorethylene",Misspelled,"Ethene, 1,1-dichloro-","1,1-Dichloroethylene",75-35-4,,,C2H2Cl2,Active
+5538,Vinylidene chloride,Valid,"Ethene, 1,1-dichloro-","1,1-Dichloroethylene",75-35-4,,,C2H2Cl2,Active
+1008,Methyl aldehyde,Valid,Formaldehyde,Formaldehyde,50-00-0,,,CH2O,Active
+1008,Formaldehyde,Valid,Formaldehyde,Formaldehyde,50-00-0,,,CH2O,Active
+1008,Formalin,Valid,Formaldehyde,Formaldehyde,50-00-0,,,CH2O,Active
+1008,Methanal,Valid,Formaldehyde,Formaldehyde,50-00-0,,,CH2O,Active
+3830,Methanoic acid,Valid,Formic acid,Formic acid,64-18-6,,,CH2O2,Active
+3830,Formic acid,Valid,Formic acid,Formic acid,64-18-6,,,CH2O2,Active
+52753,Cobalt formate,Valid,"Formic acid, cobalt(2+) salt (2:1)",Cobalt(II) formate,544-18-3,,,CH2O2.1/2Co,Active
+52753,Coabaltous formate,Valid,"Formic acid, cobalt(2+) salt (2:1)",Cobalt(II) formate,544-18-3,,,CH2O2.1/2Co,Active
+54312,Zinc formate,Valid,"Formic acid, zinc salt (2:1)",Zinc formate,557-41-5,,,CH2O2.1/2Zn,Active
+17699,Pyromucic aldehyde,Valid,2-Furancarboxaldehyde,Furfural,98-01-1,,,C5H4O2,Active
+17699,2-Furaldehyde,Valid,2-Furancarboxaldehyde,Furfural,98-01-1,,,C5H4O2,Active
+17699,Furfural,Valid,2-Furancarboxaldehyde,Furfural,98-01-1,,,C5H4O2,Active
+25015,Toxilic anhydride,Valid,"2,5-Furandione",Maleic anhydride,108-31-6,,,C4H2O3,Active
+25015,"2,5-Furandione",Valid,"2,5-Furandione",Maleic anhydride,108-31-6,,,C4H2O3,Active
+25015,Maleic anhydride,Valid,"2,5-Furandione",Maleic anhydride,108-31-6,,,C4H2O3,Active
+25015,cis-Butenedioic anhydride,Valid,"2,5-Furandione",Maleic anhydride,108-31-6,,,C4H2O3,Active
+3228,Ethylenediaminetetraacetic acid,Valid,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-",Ethylenediaminetetraacetic acid,60-00-4,,,C10H16N2O8,Active
+3228,Edetic acid,Valid,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-",Ethylenediaminetetraacetic acid,60-00-4,,,C10H16N2O8,Active
+3228,EDTA,Valid,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-",Ethylenediaminetetraacetic acid,60-00-4,,,C10H16N2O8,Active
+3228,(Ethylenedinitrilo)tetraacetic acid,Valid,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-",Ethylenediaminetetraacetic acid,60-00-4,,,C10H16N2O8,Active
+3228,Havidote,Trade Name,"Glycine, N,N'-1,2-ethanediylbis[N-(carboxymethyl)-",Ethylenediaminetetraacetic acid,60-00-4,,,C10H16N2O8,Active
+33340,Adipic acid,Valid,Hexanedioic acid,Adipic acid,124-04-9,,,C6H10O4,Active
+33340,Hexanedioic acid,Valid,Hexanedioic acid,Adipic acid,124-04-9,,,C6H10O4,Active
+152231,Muriatic acid,Valid,Hydrochloric acid,Hydrochloric acid,7647-01-0,,,ClH,Active
+152231,Hydrochloric acid,Valid,Hydrochloric acid,Hydrochloric acid,7647-01-0,,,ClH,Active
+152231,Hydrogen chloride,Valid,Hydrochloric acid,Hydrochloric acid,7647-01-0,,,ClH,Active
+5140,Hydrogen cyanide,Valid,Hydrocyanic acid,Hydrogen cyanide,74-90-8,,,CHN,Active
+5140,Hydrocyanic acid,Valid,Hydrocyanic acid,Hydrogen cyanide,74-90-8,,,CHN,Active
+152371,Hydrofluoric acid,Valid,Hydrofluoric acid,Hydrofluoric acid,7664-39-3,,,FH,Active
+152371,Fluohydric acid,Misspelled,Hydrofluoric acid,Hydrofluoric acid,7664-39-3,,,FH,Active
+154518,Sulfur hydride,Valid,Hydrogen sulfide (H2S),Hydrogen sulfide,7783-06-4,,,H2S,Active
+154518,Hydrogen sulfide,Valid,Hydrogen sulfide (H2S),Hydrogen sulfide,7783-06-4,,,H2S,Active
+154518,Hydrosulfuric acid,Valid,Hydrogen sulfide (H2S),Hydrogen sulfide,7783-06-4,,,H2S,Active
+153932,Calcium hypochlorite,Valid,"Hypochlorous acid, calcium salt (2:1)",Calcium hypochlorite,7778-54-3,,,Ca.2ClHO,Active
+152512,Bleach,Ambiguous,"Hypochlorous acid, sodium salt (1:1)",Sodium hypochlorite,7681-52-9,,,ClHO.Na,Active
+152512,Sodium hypochlorite,Valid,"Hypochlorous acid, sodium salt (1:1)",Sodium hypochlorite,7681-52-9,,,ClHO.Na,Active
+166322,Sodium hypochlorite,Valid,"Hypochlorous acid, sodium salt, pentahydrate",Sodium hypochlorite pentahydrate,10022-70-5,,,ClHO.5H2O.Na,Active
+153502,Ferrous chloride,Valid,Iron chloride (FeCl2),Ferrous chloride,7758-94-3,,,Cl2Fe,Active
+153502,Iron chloride,Ambiguous,Iron chloride (FeCl2),Ferrous chloride,7758-94-3,,,Cl2Fe,Active
+153502,Iron dichloride,Valid,Iron chloride (FeCl2),Ferrous chloride,7758-94-3,,,Cl2Fe,Active
+153502,Iron protochloride,Valid,Iron chloride (FeCl2),Ferrous chloride,7758-94-3,,,Cl2Fe,Active
+152793,Iron trichloride,Valid,Iron chloride (FeCl3),Ferric chloride,7705-08-0,,,Cl3Fe,Active
+152793,Ferric chloride,Valid,Iron chloride (FeCl3),Ferric chloride,7705-08-0,,,Cl3Fe,Active
+152793,Flores martis,Valid,Iron chloride (FeCl3),Ferric chloride,7705-08-0,,,Cl3Fe,Active
+154682,Ferric fluoride,Valid,Iron fluoride (FeF3),Ferric fluoride,7783-50-8,,,F3Fe,Active
+35790,SR-406,Trade Name,"1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-",Captan,133-06-2,,,C9H8Cl3NO2S,Active
+35790,Vancide-89,Trade Name,"1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-",Captan,133-06-2,,,C9H8Cl3NO2S,Active
+35790,Captan,Valid,"1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-",Captan,133-06-2,,,C9H8Cl3NO2S,Active
+35790,Orthocide-406,Trade Name,"1H-Isoindole-1,3(2H)-dione, 3a,4,7,7a-tetrahydro-2-[(trichloromethyl)thio]-",Captan,133-06-2,,,C9H8Cl3NO2S,Active
+153510,Lead chloride,Valid,Lead chloride (PbCl2),Lead(II) chloride,7758-95-4,,,Cl2Pb,Active
+154641,Lead fluoride,Valid,Lead fluoride (PbF2),Lead(II) fluoride,7783-46-2,,,F2Pb,Active
+154641,Lead difluoride,Valid,Lead fluoride (PbF2),Lead(II) fluoride,7783-46-2,,,F2Pb,Active
+154641,Plumbous fluoride,Valid,Lead fluoride (PbF2),Lead(II) fluoride,7783-46-2,,,F2Pb,Active
+167783,Lead iodide,Valid,Lead iodide (PbI2),Lead(II) iodide,10101-63-0,,,I2Pb,Active
+83162,Galena,Valid,Lead sulfide (PbS),Lead(II) sulfide,1314-87-0,,,PbS,Active
+83162,Lead sulfide,Valid,Lead sulfide (PbS),Lead(II) sulfide,1314-87-0,,,PbS,Active
+306332,Lead stearate,Valid,"Lead, bis(octadecanoato)dioxodi-","Lead, bis(octadecanoato)dioxodi-",56189-09-4,,,C36H70O6Pb2,Active
+57075,Mercury cyanide,Valid,Mercury cyanide (Hg(CN)2),Mercuric cyanide,592-04-1,,,C2HgN2,Active
+57075,Mercuric cyanide,Valid,Mercury cyanide (Hg(CN)2),Mercuric cyanide,592-04-1,,,C2HgN2,Active
+5132,Aminomethane,Valid,Methanamine,Methylamine,74-89-5,,,CH5N,Active
+5132,Methylamine,Valid,Methanamine,Methylamine,74-89-5,,,CH5N,Active
+5132,Monomethylamine,Valid,Methanamine,Methylamine,74-89-5,,,CH5N,Active
+5629,TMA,Valid,"Methanamine, N,N-dimethyl-",Trimethylamine,75-50-3,,,C3H9N,Active
+5629,Trimethylamine,Valid,"Methanamine, N,N-dimethyl-",Trimethylamine,75-50-3,,,C3H9N,Active
+33555,Dimethylamine,Valid,"Methanamine, N-methyl-",Dimethylamine,124-40-3,,,C2H7N,Active
+2071,Perchloromethane,Valid,"Methane, tetrachloro-",Carbon tetrachloride,56-23-5,,,CCl4,Active
+2071,Carbon tetrachloride,Valid,"Methane, tetrachloro-",Carbon tetrachloride,56-23-5,,,CCl4,Active
+2071,Tetrachloromethane,Valid,"Methane, tetrachloro-",Carbon tetrachloride,56-23-5,,,CCl4,Active
+4317,Trichloromethane,Valid,"Methane, trichloro-",Chloroform,67-66-3,,,CHCl3,Active
+4317,Chloroform,Valid,"Methane, trichloro-",Chloroform,67-66-3,,,CHCl3,Active
+5157,Thiomethyl alcohol,Valid,Methanethiol,Methyl mercaptan,74-93-1,,,CH4S,Active
+5157,Methyl mercaptan,Valid,Methanethiol,Methyl mercaptan,74-93-1,,,CH4S,Active
+5157,Mercaptomethane,Valid,Methanethiol,Methyl mercaptan,74-93-1,,,CH4S,Active
+5157,Methanethiol,Valid,Methanethiol,Methyl mercaptan,74-93-1,,,CH4S,Active
+5157,Methyl sulfhydrate,Valid,Methanethiol,Methyl mercaptan,74-93-1,,,CH4S,Active
+2683,Toxichlor,Trade Name,"4,7-Methano-1H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-",Chlordane,57-74-9,,,C10H6Cl8,Active
+2683,Chlordane,Valid,"4,7-Methano-1H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-",Chlordane,57-74-9,,,C10H6Cl8,Active
+2683,Chlordan,Trade Name,"4,7-Methano-1H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,4,7,7a-hexahydro-",Chlordane,57-74-9,,,C10H6Cl8,Active
+6262,Velsicol-104,Trade Name,"4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-",Heptachlor,76-44-8,,,C10H5Cl7,Active
+6262,Heptagran,Trade Name,"4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-",Heptachlor,76-44-8,,,C10H5Cl7,Active
+6262,Heptachlor,Valid,"4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-",Heptachlor,76-44-8,,,C10H5Cl7,Active
+6262,Drinox,Trade Name,"4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-tetrahydro-",Heptachlor,76-44-8,,,C10H5Cl7,Active
+29132,Endosulfan,Valid,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide",Endosulfan,115-29-7,,,C9H6Cl6O3S,Active
+29132,Thiodan,Trade Name,"6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide",Endosulfan,115-29-7,,,C9H6Cl6O3S,Active
+33563,Sodium methylate,Valid,"Methanol, sodium salt (1:1)",Sodium methoxide,124-41-4,,,CH4O.Na,Active
+33563,Sodium methoxide,Valid,"Methanol, sodium salt (1:1)",Sodium methoxide,124-41-4,,,CH4O.Na,Active
+39313,"1,1a,3,3a,4,5,5,5a,5b,6-Decachlorooctahydro-1,3,4-metheno-2H-cyclobuta(cd)pentalen-2-one",Valid,"1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-",Chlordecone,143-50-0,,,C10Cl10O,Active
+39313,Kepone,Trade Name,"1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-",Chlordecone,143-50-0,,,C10Cl10O,Active
+39313,Chlordecone,Valid,"1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one, 1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-",Chlordecone,143-50-0,,,C10Cl10O,Active
+13326,White tar,Valid,Naphthalene,Naphthalene,91-20-3,,,C10H8,Active
+13326,Tar camphor,Valid,Naphthalene,Naphthalene,91-20-3,,,C10H8,Active
+13326,Naphthalene,Valid,Naphthalene,Naphthalene,91-20-3,,,C10H8,Active
+13326,Naphthalin,Valid,Naphthalene,Naphthalene,91-20-3,,,C10H8,Active
+29926,Dichloronaphthoquinone,Valid,"1,4-Naphthalenedione, 2,3-dichloro-",Dichlone,117-80-6,,,C10H4Cl2O2,Active
+29926,Dichlone,Valid,"1,4-Naphthalenedione, 2,3-dichloro-",Dichlone,117-80-6,,,C10H4Cl2O2,Active
+29926,Phygon,Valid,"1,4-Naphthalenedione, 2,3-dichloro-",Dichlone,117-80-6,,,C10H4Cl2O2,Active
+3723,Sevin,Trade Name,"1-Naphthalenol, 1-(N-methylcarbamate)",Carbaryl,63-25-2,,,C12H11NO2,Active
+3723,Carbaryl,Valid,"1-Naphthalenol, 1-(N-methylcarbamate)",Carbaryl,63-25-2,,,C12H11NO2,Active
+85977,Naphthenic acid,Valid,Naphthenic acids,Naphthenic acids,1338-24-5,,,Unspecified,Active
+152868,Nickelous chloride,Valid,Nickel chloride (NiCl2),Nickel(II) chloride,7718-54-9,,,Cl2Ni,Active
+152868,Nickel chloride,Ambiguous,Nickel chloride (NiCl2),Nickel(II) chloride,7718-54-9,,,Cl2Ni,Active
+178129,Nickel hydroxide,Valid,Nickel hydroxide (Ni(OH)2),Nickel hydroxide (Ni(OH)2),12054-48-7,,,H2NiO2,Active
+178129,Nickelous hydroxide,Valid,Nickel hydroxide (Ni(OH)2),Nickel hydroxide (Ni(OH)2),12054-48-7,,,H2NiO2,Active
+152686,Aqua fortis,Valid,Nitric acid,Nitric acid,7697-37-2,,,HNO3,Active
+152686,Nitric acid,Valid,Nitric acid,Nitric acid,7697-37-2,,,HNO3,Active
+153593,Lunar caustic,Valid,Nitric acid silver(1+) salt (1:1),Silver nitrate,7761-88-8,,,Ag.HNO3,Active
+153593,Nitric acid silver(1+) salt,Valid,Nitric acid silver(1+) salt (1:1),Silver nitrate,7761-88-8,,,Ag.HNO3,Active
+153593,Silver nitrate,Valid,Nitric acid silver(1+) salt (1:1),Silver nitrate,7761-88-8,,,Ag.HNO3,Active
+189100,Beryllium nitrate,Valid,"Nitric acid, beryllium salt (2:1)",Beryllium nitrate (Be(NO3)2),13597-99-4,,,Be.2HNO3,Active
+155473,Beryllium nitrate,Valid,"Nitric acid, beryllium salt, trihydrate",Beryllium nitrate trihydrate,7787-55-5,,,Be.3H2O.2HNO3,Active
+113621,Copper nitrate,Valid,"Nitric acid, copper(2+) salt (2:1)",Cupric nitrate,3251-23-8,,,Cu.2HNO3,Active
+113621,Cupric nitrate,Valid,"Nitric acid, copper(2+) salt (2:1)",Cupric nitrate,3251-23-8,,,Cu.2HNO3,Active
+171215,Iron nitrate,Valid,"Nitric acid, iron(3+) salt (3:1)",Ferric nitrate,10421-48-4,,,Fe.3HNO3,Active
+171215,Ferric nitrate,Valid,"Nitric acid, iron(3+) salt (3:1)",Ferric nitrate,10421-48-4,,,Fe.3HNO3,Active
+167692,Lead nitrate,Valid,"Nitric acid, lead(2+) salt (2:1)",Lead nitrate (Pb(NO3)2),10099-74-8,,,HNO3.1/2Pb,Active
+171124,Mercury protonitrate,Valid,"Nitric acid, mercury(1+) salt (1:1)",Mercurous nitrate,10415-75-5,,,HNO3.Hg,Active
+171124,Mercurous nitrate,Valid,"Nitric acid, mercury(1+) salt (1:1)",Mercurous nitrate,10415-75-5,,,HNO3.Hg,Active
+154419,Mercurous nitrate,Inaccurate,"Nitric acid, mercury(1+) salt, monohydrate","Mercurous nitrate, monohydrate",7782-86-7,,,H2O.HNO3.Hg,Active
+167239,Mercuric nitrate,Valid,"Nitric acid, mercury(2+) salt (2:1)",Mercuric nitrate,10045-94-0,,,HNO3.1/2Hg,Active
+167239,Mercury pernitrate,Valid,"Nitric acid, mercury(2+) salt (2:1)",Mercuric nitrate,10045-94-0,,,HNO3.1/2Hg,Active
+167239,Mercury nitrate,Valid,"Nitric acid, mercury(2+) salt (2:1)",Mercuric nitrate,10045-94-0,,,HNO3.1/2Hg,Active
+194043,Nickel nitrate,Valid,"Nitric acid, nickel salt",Nickel nitrate,14216-75-2,,,,Active
+154195,Zinc nitrate,Valid,"Nitric acid, zinc salt (2:1)",Zinc nitrate,7779-88-6,,,HNO3.1/2Zn,Active
+190447,Zirconium nitrate,Valid,"Nitric acid, zirconium(4+) salt (4:1)",Zirconium nitrate,13746-89-9,,,HNO3.1/4Zr,Active
+172338,Nitrogen tetraoxide,Valid,Nitrogen oxide (N2O4),Nitrogen tetroxide,10544-72-6,,,N2O4,Active
+167924,Nitrogen dioxide,Valid,Nitrogen oxide (NO2),Nitrogen dioxide,10102-44-0,,,NO2,
+152058,Sodium nitrite,Valid,"Nitrous acid, sodium salt (1:1)",Sodium nitrite,7632-00-0,,,HNO2.Na,Active
+149450,Lead stearate,Valid,"Octadecanoic acid, lead salt (1:?)",Lead stearate,7428-48-0,,,C18H36O2.xPb,Active
+149450,"Stearic acid, lead salt",Valid,"Octadecanoic acid, lead salt (1:?)",Lead stearate,7428-48-0,,,C18H36O2.xPb,Active
+77487,Lead stearate,Valid,"Octadecanoic acid, lead(2+) salt (2:1)",Lead(II) stearate,1072-35-1,,,C18H36O2.1/2Pb,Active
+23945,Chloropropylene oxide,Valid,"Oxirane, 2-(chloromethyl)-",Epichlorohydrin,106-89-8,,,C3H5ClO,Active
+23945,Epichlorohydrin,Valid,"Oxirane, 2-(chloromethyl)-",Epichlorohydrin,106-89-8,,,C3H5ClO,Active
+5660,Propylene oxide,Valid,"Oxirane, 2-methyl-",Propylene oxide,75-56-9,,,C3H6O,Active
+5660,Propene oxide,Valid,"Oxirane, 2-methyl-",Propylene oxide,75-56-9,,,C3H6O,Active
+256545,Triformol,Trade Name,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+256545,Paraformaldehyde,Valid,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+256545,Formagene,Trade Name,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+256545,Paraform,Valid,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+256545,Polymerized formaldehyde,Valid,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+256545,Polyoxymethylene,Valid,Paraformaldehyde,Paraformaldehyde,30525-89-4,,,(CH2O)x,Active
+63743,sec-Amyl acetate,Valid,"2-Pentanol, 2-acetate",sec-Amyl acetate,626-38-0,,,C7H14O2,Active
+152975,Chameleon mineral,Valid,"Permanganic acid (HMnO4), potassium salt (1:1)",Potassium permanganate,7722-64-7,,,HMnO4.K,Active
+152975,Potassium permanganate,Valid,"Permanganic acid (HMnO4), potassium salt (1:1)",Potassium permanganate,7722-64-7,,,HMnO4.K,Active
+25510,Phenyl hydroxide,Valid,Phenol,Phenol,108-95-2,,,C6H6O,Active
+25510,Phenol,Valid,Phenol,Phenol,108-95-2,,,C6H6O,Active
+25510,Carbolic acid,Valid,Phenol,Phenol,108-95-2,,,C6H6O,Active
+25510,Hydroxybenzene,Valid,Phenol,Phenol,108-95-2,,,C6H6O,Active
+25510,Oxybenzene,Valid,Phenol,Phenol,108-95-2,,,C6H6O,Active
+11437,Penta,Valid,"Phenol, 2,3,4,5,6-pentachloro-",Pentachlorophenol,87-86-5,,,C6HCl5O,Active
+11437,Pentachlorophenol,Valid,"Phenol, 2,3,4,5,6-pentachloro-",Pentachlorophenol,87-86-5,,,C6HCl5O,Active
+11437,PCP,Valid,"Phenol, 2,3,4,5,6-pentachloro-",Pentachlorophenol,87-86-5,,,C6HCl5O,Active
+202390,"2,3,4-Trichlorophenol",Valid,"Phenol, 2,3,4-trichloro-","2,3,4-Trichlorophenol",15950-66-0,,,C5H5NOS.Na,Active
+74526,"2,3,5-Trichlorophenol",Valid,"Phenol, 2,3,5-trichloro-","2,3,5-Trichlorophenol",933-78-8,,,C6H3Cl3O,Active
+74518,"2,3,6-Trichlorophenol",Valid,"Phenol, 2,3,6-trichloro-","2,3,6-Trichlorophenol",933-75-5,,,C6H3Cl3O,Active
+16519,"2,4,5-Trichlorophenol",Valid,"Phenol, 2,4,5-trichloro-","2,4,5-Trichlorophenol",95-95-4,,,C6H3Cl3O,Active
+16519,Collunosol,Trade Name,"Phenol, 2,4,5-trichloro-","2,4,5-Trichlorophenol",95-95-4,,,C6H3Cl3O,Active
+16519,Dowicide 2,Trade Name,"Phenol, 2,4,5-trichloro-","2,4,5-Trichlorophenol",95-95-4,,,C6H3Cl3O,Active
+11536,Phenachlor,Trade Name,"Phenol, 2,4,6-trichloro-","2,4,6-Trichlorophenol",88-06-2,,,C6H3Cl3O,Active
+11536,"2,4,6-Trichlorophenol",Valid,"Phenol, 2,4,6-trichloro-","2,4,6-Trichlorophenol",88-06-2,,,C6H3Cl3O,Active
+11536,Dowicide 2S,Trade Name,"Phenol, 2,4,6-trichloro-","2,4,6-Trichlorophenol",88-06-2,,,C6H3Cl3O,Active
+11536,Omal,Trade Name,"Phenol, 2,4,6-trichloro-","2,4,6-Trichlorophenol",88-06-2,,,C6H3Cl3O,Active
+1313,Dinitrophenol,Ambiguous,"Phenol, 2,4-dinitro-","2,4-Dinitrophenol",51-28-5,,,C6H4N2O5,Active
+1313,"2,4-Dinitrophenol",Valid,"Phenol, 2,4-dinitro-","2,4-Dinitrophenol",51-28-5,,,C6H4N2O5,Active
+1313,Aldifen,Valid,"Phenol, 2,4-dinitro-","2,4-Dinitrophenol",51-28-5,,,C6H4N2O5,Active
+42564,"2,5-Dinitrophenol",Valid,"Phenol, 2,5-dinitro-","2,5-Dinitrophenol",329-71-5,,,C6H4N2O5,Active
+55020,"2,6-Dinitrophenol",Valid,"Phenol, 2,6-dinitro-","2,6-Dinitrophenol",573-56-8,,,C6H4N2O5,Active
+16147,o-Cresol,Valid,"Phenol, 2-methyl-",o-Cresol,95-48-7,,,C7H8O,Active
+12005,o-Nitrophenol,Valid,"Phenol, 2-nitro-",o-Nitrophenol,88-75-5,,,C6H5NO3,Active
+59352,"3,4,5-Trichlorophenol",Valid,"Phenol, 3,4,5-trichloro-","3,4,5-Trichlorophenol",609-19-8,,,C6H3Cl3O,Active
+95679,Mesurol,Trade Name,"Phenol, 3,5-dimethyl-4-(methylthio)-, methylcarbamate",Methiocarb,2032-65-7,,,C11H15NO2S,Active
+95679,Mercaptodimethur,Valid,"Phenol, 3,5-dimethyl-4-(methylthio)-, methylcarbamate",Methiocarb,2032-65-7,,,C11H15NO2S,Active
+25064,m-Cresol,Valid,"Phenol, 3-methyl-",m-Cresol,108-39-4,,,C7H8O,Active
+53603,m-Nitrophenol,Valid,"Phenol, 3-nitro-",m-Nitrophenol,554-84-7,,,C6H5NO3,Active
+42135,Zectran,Trade Name,"Phenol, 4-(dimethylamino)-3,5-dimethyl-, methylcarbamate (ester)",Mexacarbate,315-18-4,,,C12H18N2O2,Active
+42135,Mexacarbate,Valid,"Phenol, 4-(dimethylamino)-3,5-dimethyl-, methylcarbamate (ester)",Mexacarbate,315-18-4,,,C12H18N2O2,Active
+23606,p-Cresol,Valid,"Phenol, 4-methyl-",p-Cresol,106-44-5,,,C7H8O,Active
+19117,p-Nitrophenol,Valid,"Phenol, 4-nitro-",p-Nitrophenol,100-02-7,,,C6H5NO3,Active
+81836,Hydroxydimethylbenzene,Valid,"Phenol, dimethyl-",Dimethylphenol,1300-71-6,,,C8H10O,Active
+81836,Xylenol,Valid,"Phenol, dimethyl-",Dimethylphenol,1300-71-6,,,C8H10O,Active
+81836,Dimethylphenol,Valid,"Phenol, dimethyl-",Dimethylphenol,1300-71-6,,,C8H10O,Active
+83550,Hydroxytoluene,Valid,"Phenol, methyl-",Cresol,1319-77-3,,,C7H8O,Active
+83550,Cresol,Valid,"Phenol, methyl-",Cresol,1319-77-3,,,C7H8O,Active
+83550,Cresylic acid,Valid,"Phenol, methyl-",Cresol,1319-77-3,,,C7H8O,Active
+230334,Mononitrophenol,Valid,"Phenol, nitro-",Nitrophenol,25154-55-6,,,C6H5NO3,Active
+230334,Nitrophenol (mixed),Valid,"Phenol, nitro-",Nitrophenol,25154-55-6,,,C6H5NO3,Active
+230524,Trichlorophenol,Valid,"Phenol, trichloro-",Trichlorophenol,25167-82-2,,,C6H3Cl3O,Active
+1586,Dylox,Trade Name,"Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-, dimethyl ester",Trichlorfon,52-68-6,,,C4H8Cl3O4P,Active
+1586,Trichlorfon,Valid,"Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-, dimethyl ester",Trichlorfon,52-68-6,,,C4H8Cl3O4P,Active
+1586,Dipterex,Trade Name,"Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-, dimethyl ester",Trichlorfon,52-68-6,,,C4H8Cl3O4P,Active
+152363,Orthophosphoric acid,Valid,Phosphoric acid,Phosphoric acid,7664-38-2,,,H3O4P,Active
+152363,Phosphoric acid,Valid,Phosphoric acid,Phosphoric acid,7664-38-2,,,H3O4P,Active
+41426,Naled,Valid,"Phosphoric acid, 1,2-dibromo-2,2-dichloroethyl dimethyl ester",Naled,300-76-5,,,C4H7Br2Cl2O4P,Active
+41426,Dibrom,Trade Name,"Phosphoric acid, 1,2-dibromo-2,2-dichloroethyl dimethyl ester",Naled,300-76-5,,,C4H7Br2Cl2O4P,Active
+3681,Vapona,Trade Name,"Phosphoric acid, 2,2-dichloroethenyl dimethyl ester",Dichlorvos,62-73-7,,,C4H7Cl2O4P,Active
+3681,Dichlorvos,Valid,"Phosphoric acid, 2,2-dichloroethenyl dimethyl ester",Dichlorvos,62-73-7,,,C4H7Cl2O4P,Active
+3681,"2,2-Dichlorovinyl dimethyl phosphate",Valid,"Phosphoric acid, 2,2-dichloroethenyl dimethyl ester",Dichlorvos,62-73-7,,,C4H7Cl2O4P,Active
+749085,"Sodium phosphate, dibasic",Valid,"Phosphoric acid, disodium salt, dihydrate",Disodium phosphate dihydrate,10028-24-7,,,H3O4P.2H2O.2Na,Active
+166991,"Sodium phosphate, dibasic",Valid,"Phosphoric acid, disodium salt, dodecahydrate",Disodium phosphate dodecahydrate,10039-32-4,,,H3O4P.12H2O.2Na,Active
+168740,"Sodium phosphate, dibasic",Valid,"Phosphoric acid, disodium salt, hydrate",Disodium phosphate hydrate,10140-65-5,,,H3O4P.xH2O.2Na,Active
+151480,"Sodium phosphate, dibasic",Valid,"Phosphoric acid, sodium salt (1:2)",Disodium phosphate,7558-79-4,,,H3O4P.2Na,Active
+151746,"Sodium phosphate, tribasic",Valid,"Phosphoric acid, sodium salt (1:3)",Trisodium phosphate,7601-54-9,,,H3O4P.3Na,Active
+170688,"Sodium phosphate, tribasic",Valid,"Phosphoric acid, trisodium salt, decahydrate",Trisodium phosphate decahydrate,10361-89-4,,,H3O4P.10H2O.3Na,Active
+167833,"Sodium phosphate, tribasic",Valid,"Phosphoric acid, trisodium salt, dodecahydrate",Trisodium phosphate dodecahydrate,10101-89-0,,,H3O4P.12H2O.3Na,Active
+166488,Phosphorus oxychloride,Valid,Phosphoric trichloride,Phosphorus oxychloride,10025-87-3,,,Cl3OP,Active
+166488,Phosphoryl chloride,Valid,Phosphoric trichloride,Phosphorus oxychloride,10025-87-3,,,Cl3OP,Active
+166488,Phosphorus chloride,Inaccurate,Phosphoric trichloride,Phosphorus oxychloride,10025-87-3,,,Cl3OP,Active
+41210,Di-syston,Trade Name,"Phosphorodithioic acid, O,O-diethyl S-[2-(ethylthio)ethyl] ester",Disulfoton,298-04-4,,,C8H19O2PS3,Active
+41210,Disulfoton,Valid,"Phosphorodithioic acid, O,O-diethyl S-[2-(ethylthio)ethyl] ester",Disulfoton,298-04-4,,,C8H19O2PS3,Active
+10777,Azinphos-methyl,Valid,"Phosphorodithioic acid, O,O-dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",Azinphos-methyl,86-50-0,,,C10H12N3O3PS2,Active
+10777,Gusathion,Trade Name,"Phosphorodithioic acid, O,O-dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",Azinphos-methyl,86-50-0,,,C10H12N3O3PS2,Active
+10777,Guthion,Trade Name,"Phosphorodithioic acid, O,O-dimethyl S-[(4-oxo-1,2,3-benzotriazin-3(4H)-yl)methyl] ester",Azinphos-methyl,86-50-0,,,C10H12N3O3PS2,Active
+54577,Nialate,Trade Name,"Phosphorodithioic acid, S,S'-methylene O,O,O',O'-tetraethyl ester",Ethion,563-12-2,,,C9H22O4P2S4,Active
+54577,Ethion,Valid,"Phosphorodithioic acid, S,S'-methylene O,O,O',O'-tetraethyl ester",Ethion,563-12-2,,,C9H22O4P2S4,Active
+54577,Ethyl methylene phosphorodithioate,Valid,"Phosphorodithioic acid, S,S'-methylene O,O,O',O'-tetraethyl ester",Ethion,563-12-2,,,C9H22O4P2S4,Active
+108852,Dursban,Trade Name,"Phosphorothioic acid, O,O-diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",Chlorpyrifos,2921-88-2,,,C9H11Cl3NO3PS,Active
+108852,Chlorpyrifos,Valid,"Phosphorothioic acid, O,O-diethyl O-(3,5,6-trichloro-2-pyridinyl) ester",Chlorpyrifos,2921-88-2,,,C9H11Cl3NO3PS,Active
+2147,Niran,Trade Name,"Phosphorothioic acid, O,O-diethyl O-(4-nitrophenyl) ester",Parathion,56-38-2,,,C10H14NO5PS,Active
+2147,Parathion,Valid,"Phosphorothioic acid, O,O-diethyl O-(4-nitrophenyl) ester",Parathion,56-38-2,,,C10H14NO5PS,Active
+2147,DNTP,Valid,"Phosphorothioic acid, O,O-diethyl O-(4-nitrophenyl) ester",Parathion,56-38-2,,,C10H14NO5PS,Active
+42705,Spectracide,Trade Name,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester",Diazinon,333-41-5,,,C12H21N2O3PS,Active
+42705,Diazitol,Trade Name,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester",Diazinon,333-41-5,,,C12H21N2O3PS,Active
+42705,Diazinon,Trade Name,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester",Diazinon,333-41-5,,,C12H21N2O3PS,Active
+42705,Basudin,Trade Name,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester",Diazinon,333-41-5,,,C12H21N2O3PS,Active
+42705,Dipofene,Trade Name,"Phosphorothioic acid, O,O-diethyl O-[6-methyl-2-(1-methylethyl)-4-pyrimidinyl] ester",Diazinon,333-41-5,,,C12H21N2O3PS,Active
+41194,Nitrox-80,Trade Name,"Phosphorothioic acid, O,O-dimethyl O-(4-nitrophenyl) ester",Methyl parathion,298-00-0,,,C8H10NO5PS,Active
+41194,Methyl parathion,Valid,"Phosphorothioic acid, O,O-dimethyl O-(4-nitrophenyl) ester",Methyl parathion,298-00-0,,,C8H10NO5PS,Active
+2246,Co-Ral,Trade Name,"Phosphorothioic acid, O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",Coumaphos,56-72-4,,,C14H16ClO5PS,Active
+2246,Coumaphos,Valid,"Phosphorothioic acid, O-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl) O,O-diethyl ester",Coumaphos,56-72-4,,,C14H16ClO5PS,Active
+152918,Phosphorus trichloride,Valid,Phosphorous trichloride,Phosphorus trichloride,7719-12-2,,,Cl3P,Active
+152918,Phosphorous chloride,Ambiguous,Phosphorous trichloride,Phosphorus trichloride,7719-12-2,,,Cl3P,Active
+153049,Black phosphorus,Valid,Phosphorus,Phosphorus,7723-14-0,,,P,Active
+153049,Phosphorus,Valid,Phosphorus,Phosphorus,7723-14-0,,,P,Active
+153049,Red phosphorus,Valid,Phosphorus,Phosphorus,7723-14-0,,,P,Active
+83147,Thiophosphoric anhydride,Valid,Phosphorus sulfide (P2S5),Phosphorus pentasulfide,1314-80-3,,,P.S,Active
+83147,Phosphoric sulfide,Valid,Phosphorus sulfide (P2S5),Phosphorus pentasulfide,1314-80-3,,,P.S,Active
+83147,Phosphorus pentasulfide,Valid,Phosphorus sulfide (P2S5),Phosphorus pentasulfide,1314-80-3,,,P.S,Active
+83147,Phosphorus persulfide,Valid,Phosphorus sulfide (P2S5),Phosphorus pentasulfide,1314-80-3,,,P.S,Active
+180398,Yellow phosphorus,Valid,"Phosphorus, mol. (P4)",Phosphorus (white or yellow),12185-10-3,,,P4,Active
+180398,White phosphorus,Valid,"Phosphorus, mol. (P4)",Phosphorus (white or yellow),12185-10-3,,,P4,Active
+6825,TEL,Valid,"Plumbane, tetraethyl-",Tetraethyllead,78-00-2,,,C8H20Pb,Active
+6825,Tetraethyl lead,Valid,"Plumbane, tetraethyl-",Tetraethyllead,78-00-2,,,C8H20Pb,Active
+6825,Lead tetraethyl,Valid,"Plumbane, tetraethyl-",Tetraethyllead,78-00-2,,,C8H20Pb,Active
+298943,"2,4-D ester",Valid,"Poly[oxy(methyl-1,2-ethanediyl)], .alpha.-[(2,4-dichlorophenoxy)acetyl]-.omega.-butoxy-","2,4-D, polypropoxybutyl ester",53467-11-1,,,(C3H6O)nC12H14Cl2O3,Active
+40261,Potassium cyanide,Valid,Potassium cyanide (K(CN)),Potassium cyanide,151-50-8,,,CKN,Active
+82610,Potassium hydrate,Valid,Potassium hydroxide (K(OH)),Potassium hydroxide,1310-58-3,,,HKO,Active
+82610,Potassium hydroxide,Valid,Potassium hydroxide (K(OH)),Potassium hydroxide,1310-58-3,,,HKO,Active
+82610,Caustic potash,Valid,Potassium hydroxide (K(OH)),Potassium hydroxide,1310-58-3,,,HKO,Active
+82610,Potassa,Valid,Potassium hydroxide (K(OH)),Potassium hydroxide,1310-58-3,,,HKO,Active
+7336,iso-Butylamine,Valid,"1-Propanamine, 2-methyl-",Isobutylamine,78-81-9,,,C4H11N,Active
+5744,tert-Butylamine,Valid,"2-Propanamine, 2-methyl-",tert-Butylamine,75-64-9,,,C4H11N,Active
+7500,"1,1-Dichloropropane",Valid,"Propane, 1,1-dichloro-","1,1-Dichloropropane",78-99-9,,,C3H6Cl2,Active
+7393,"1,2-Dichloropropane",Valid,"Propane, 1,2-dichloro-","1,2-Dichloropropane",78-87-5,,,C3H6Cl2,Active
+38737,"1,3-Dichloropropane",Valid,"Propane, 1,3-dichloro-","1,3-Dichloropropane",142-28-9,,,C3H6Cl2,Active
+240903,Dichloropropane,Valid,"Propane, dichloro-",Dichloropropane,26638-19-7,,,C3H6Cl2,Active
+5942,.alpha.-Hydroxyisobutyronitrile,Valid,"Propanenitrile, 2-hydroxy-2-methyl-",Acetone cyanohydrin,75-86-5,,,C4H7NO,Active
+5942,Acetone cyanohydrin,Valid,"Propanenitrile, 2-hydroxy-2-methyl-",Acetone cyanohydrin,75-86-5,,,C4H7NO,Active
+5942,2-Methyllactonitrile,Valid,"Propanenitrile, 2-hydroxy-2-methyl-",Acetone cyanohydrin,75-86-5,,,C4H7NO,Active
+80242,Ammonium ferric citrate,Valid,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium iron(3+) salt (1:?:?)",Ferric ammonium citrate,1185-57-5,,,C6H8O7.xFe.xH3N,Active
+80242,Ferric ammonium citrate,Valid,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium iron(3+) salt (1:?:?)",Ferric ammonium citrate,1185-57-5,,,C6H8O7.xFe.xH3N,Active
+110270,Citric acid diammonium salt,Valid,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt (1:2)",Diammonium citrate,3012-65-5,,,C6H8O7.2H3N,Active
+110270,Diammonium citrate,Valid,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt (1:2)",Diammonium citrate,3012-65-5,,,C6H8O7.2H3N,Active
+110270,Ammonium citrate dibasic,Valid,"1,2,3-Propanetricarboxylic acid, 2-hydroxy-, ammonium salt (1:2)",Diammonium citrate,3012-65-5,,,C6H8O7.2H3N,Active
+7609,Methylacetic acid,Valid,Propanoic acid,Propionic acid,79-09-4,,,C3H6O2,Active
+7609,Ethylformic acid,Valid,Propanoic acid,Propionic acid,79-09-4,,,C3H6O2,Active
+7609,Propanoic acid,Valid,Propanoic acid,Propionic acid,79-09-4,,,C3H6O2,Active
+7609,Propionic acid,Valid,Propanoic acid,Propionic acid,79-09-4,,,C3H6O2,Active
+33068,Propanoic anhydride,Valid,"Propanoic acid, 1,1'-anhydride",Propionic anhydride,123-62-6,,,C6H10O3,Active
+33068,Methylacetic anhydride,Valid,"Propanoic acid, 1,1'-anhydride",Propionic anhydride,123-62-6,,,C6H10O3,Active
+33068,Propionic anhydride,Valid,"Propanoic acid, 1,1'-anhydride",Propionic anhydride,123-62-6,,,C6H10O3,Active
+6049,"2,2-Dichloropropionic acid",Valid,"Propanoic acid, 2,2-dichloro-",Dalapon,75-99-0,,,C3H4Cl2O2,Active
+6049,Dalapon,Valid,"Propanoic acid, 2,2-dichloro-",Dalapon,75-99-0,,,C3H4Cl2O2,Active
+15057,"Propanoic acid, 2-(2,4,5- trichlorophenoxy)-",Valid,"Propanoic acid, 2-(2,4,5-trichlorophenoxy)-",Silvex,93-72-1,,,C9H7Cl3O3,Active
+15057,"2,4,5-TP acid",Valid,"Propanoic acid, 2-(2,4,5-trichlorophenoxy)-",Silvex,93-72-1,,,C9H7Cl3O3,Active
+262402,"Propanoic acid, 2-(2,4,5- trichlorophenoxy)-, isooctyl ester",Valid,"Propanoic acid, 2-(2,4,5-trichlorophenoxy)-, isooctyl ester",Silvex isooctyl ester,32534-95-5,,,C17H23Cl3O3,Active
+7757,iso-Butanoic acid,Valid,"Propanoic acid, 2-methyl-",Isobutyric acid,79-31-2,,,C4H8O2,Active
+24224,Vinyl carbinol,Valid,2-Propen-1-ol,Allyl Alcohol,107-18-6,,,C3H6O,Active
+24224,1-Propenol-3,Valid,2-Propen-1-ol,Allyl Alcohol,107-18-6,,,C3H6O,Active
+24224,2-Propen-1-ol,Valid,2-Propen-1-ol,Allyl Alcohol,107-18-6,,,C3H6O,Active
+24224,Allyl alcohol,Valid,2-Propen-1-ol,Allyl Alcohol,107-18-6,,,C3H6O,Active
+24075,Acrylic aldehyde,Valid,2-Propenal,Acrolein,107-02-8,,,C3H4O,Active
+24075,Acrolein,Valid,2-Propenal,Acrolein,107-02-8,,,C3H4O,Active
+24075,2-Propenal,Valid,2-Propenal,Acrolein,107-02-8,,,C3H4O,Active
+24075,Acraldehyde,Valid,2-Propenal,Acrolein,107-02-8,,,C3H4O,Active
+24075,Acrylaldehyde,Valid,2-Propenal,Acrolein,107-02-8,,,C3H4O,Active
+52449,"1,3-Dichloropropene",Valid,"1-Propene, 1,3-dichloro-","1,3-Dichloropropene",542-75-6,,,C3H4Cl2,Active
+157347,D-D mixture,Valid,"1-Propene, 1,3-dichloro-, mixture with 1,2-dichloropropane","1,3-Dichloro-1-propene mixture with 1,2-dichloropropane",8003-19-8,,,C3H6Cl2.C3H4Cl2,Active
+157347,Dichloropropene-dichloropropane (mixture),Valid,"1-Propene, 1,3-dichloro-, mixture with 1,2-dichloropropane","1,3-Dichloro-1-propene mixture with 1,2-dichloropropane",8003-19-8,,,C3H6Cl2.C3H4Cl2,Active
+157347,Vidden D,Trade Name,"1-Propene, 1,3-dichloro-, mixture with 1,2-dichloropropane","1,3-Dichloro-1-propene mixture with 1,2-dichloropropane",8003-19-8,,,C3H6Cl2.C3H4Cl2,Active
+7401,"2,3-Dichloropropene",Valid,"1-Propene, 2,3-dichloro-","2,3-Dichloropropene",78-88-6,,,C3H4Cl2,Active
+24109,3-Chloropropylene,Valid,"1-Propene, 3-chloro-",Allyl chloride,107-05-1,,,C3H5Cl,Active
+24109,Chlorallylene,Valid,"1-Propene, 3-chloro-",Allyl chloride,107-05-1,,,C3H5Cl,Active
+24109,Allyl chloride,Valid,"1-Propene, 3-chloro-",Allyl chloride,107-05-1,,,C3H5Cl,Active
+24109,3-Chloropropene,Valid,"1-Propene, 3-chloro-",Allyl chloride,107-05-1,,,C3H5Cl,Active
+243097,Dichloropropene,Valid,"1-Propene, dichloro-",Dichloropropene,26952-23-8,,,C3H4Cl2,Active
+24182,Vinyl cyanide,Valid,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+24182,Acrylonitrile,Valid,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+24182,Ventox,Trade Name,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+24182,Cyanoethylene,Valid,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+24182,Fumigrain,Trade Name,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+24182,Propeneitrile,Misspelled,2-Propenenitrile,Acrylonitrile,107-13-1,,,C3H3N,Active
+8458,Methyl-2-methyl-2-propenoate,Valid,"2-Propenoic acid, 2-methyl-, methyl ester",Methyl methacrylate,80-62-6,,,C5H8O2,Active
+8458,Methyl methacrylate,Valid,"2-Propenoic acid, 2-methyl-, methyl ester",Methyl methacrylate,80-62-6,,,C5H8O2,Active
+8458,Methacrylic acid methyl ester,Valid,"2-Propenoic acid, 2-methyl-, methyl ester",Methyl methacrylate,80-62-6,,,C5H8O2,Active
+157362,Pyrethrins,Valid,Pyrethrins and Pyrethroids,Pyrethrins,8003-34-7,,,Unspecified,Active
+13342,Leuocoline,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+13342,Quinoline,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+13342,1-Benzazine,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+13342,Benzo(b)pyridine,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+13342,Chinoleine,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+13342,Leucol,Valid,Quinoline,Quinoline,91-22-5,,,C9H7N,Active
+154401,Sodium selenite,Valid,"Selenious acid, monosodium salt",Sodium selenite (NaHSeO3),7782-82-3,,,HO3Se.Na,Active
+167882,Sodium selenite,Valid,"Selenious acid, sodium salt (1:2)",Disodium selenite,10102-18-8,,,H2O3Se.2Na,Active
+150359,Selenium oxide,Valid,Selenium oxide (SeO2),Selenium dioxide,7446-08-4,,,O2Se,Active
+150359,Selenium dioxide,Valid,Selenium oxide (SeO2),Selenium dioxide,7446-08-4,,,O2Se,Active
+206144,Ammonium silicofluoride,Valid,"Silicate(2-), hexafluoro-, ammonium (1:2)",Ammonium silicofluoride,16919-19-0,,,F6Si.2H4N,Active
+206144,Ammonium fluosilicate,Valid,"Silicate(2-), hexafluoro-, ammonium (1:2)",Ammonium silicofluoride,16919-19-0,,,F6Si.2H4N,Active
+205864,Zinc fluosilicate,Valid,"Silicate(2-), hexafluoro-, zinc (1:1)",Zinc silicofluoride,16871-71-9,,,F6Si.Zn,Active
+205864,Zinc silicofluoride,Valid,"Silicate(2-), hexafluoro-, zinc (1:1)",Zinc silicofluoride,16871-71-9,,,F6Si.Zn,Active
+149856,Natrium,Valid,Sodium,Sodium,7440-23-5,,,Na,Active
+149856,Sodium,Valid,Sodium,Sodium,7440-23-5,,,Na,Active
+39305,Sodium cyanide,Valid,Sodium cyanide (Na(CN)),Sodium cyanide,143-33-9,,,CNNa,Active
+85589,Sodium bifluoride,Valid,Sodium fluoride (Na(HF2)),Sodium bifluoride,1333-83-1,,,F2H.Na,Active
+152504,Villiaumite,Valid,Sodium fluoride (NaF),Sodium fluoride,7681-49-4,,,FNa,Active
+152504,Sodium fluoride,Valid,Sodium fluoride (NaF),Sodium fluoride,7681-49-4,,,FNa,Active
+82644,Sodium hydrate,Valid,Sodium hydroxide (Na(OH)),Sodium hydroxide,1310-73-2,,,HNaO,Active
+82644,Sodium hydroxide,Valid,Sodium hydroxide (Na(OH)),Sodium hydroxide,1310-73-2,,,HNaO,Active
+82644,Caustic soda,Valid,Sodium hydroxide (Na(OH)),Sodium hydroxide,1310-73-2,,,HNaO,Active
+82644,Soda lye,Valid,Sodium hydroxide (Na(OH)),Sodium hydroxide,1310-73-2,,,HNaO,Active
+205468,Sodium hydrogen sulfide,Valid,Sodium sulfide (Na(SH)),Sodium hydrosulfide,16721-80-5,,,HNaS,Active
+205468,Sodium hydrosulfide,Valid,Sodium sulfide (Na(SH)),Sodium hydrosulfide,16721-80-5,,,HNaS,Active
+155952,Antimony tribromide,Valid,"Stibine, tribromo-",Antimony tribromide,7789-61-9,,,Br3Sb,Active
+166496,Antimony trichloride,Valid,"Stibine, trichloro-",Antimony trichloride,10025-91-9,,,Cl3Sb,Active
+166496,Butter of antimony,Valid,"Stibine, trichloro-",Antimony trichloride,10025-91-9,,,Cl3Sb,Active
+154740,Antimony fluoride,Valid,"Stibine, trifluoro-",Antimony trifluoride,7783-56-4,,,F3Sb,Active
+154740,Antimony trifluoride,Valid,"Stibine, trifluoro-",Antimony trifluoride,7783-56-4,,,F3Sb,Active
+2485,Strychnine,Valid,Strychnidin-10-one,Strychnine,57-24-9,,,C21H22N2O2,Active
+153668,AMS,Valid,"Sulfamic acid, ammonium salt (1:1)",Ammonium sulfamate,7773-06-0,,,H3NO3S.H3N,Active
+153668,Ammonium sulfamate,Valid,"Sulfamic acid, ammonium salt (1:1)",Ammonium sulfamate,7773-06-0,,,H3NO3S.H3N,Active
+153668,Ammate,Trade Name,"Sulfamic acid, ammonium salt (1:1)",Ammonium sulfamate,7773-06-0,,,H3NO3S.H3N,Active
+153668,Ammonium amidosulfate,Valid,"Sulfamic acid, ammonium salt (1:1)",Ammonium sulfamate,7773-06-0,,,H3NO3S.H3N,Active
+193060,Cobalt sulfamate,Valid,"Sulfamic acid, cobalt(2+) salt (2:1)",Cobaltous sulfamate,14017-41-5,,,Co.2H3NO3S,Active
+193060,Cobaltous sulfamate,Valid,"Sulfamic acid, cobalt(2+) salt (2:1)",Cobaltous sulfamate,14017-41-5,,,Co.2H3NO3S,Active
+166405,Sulfur monochloride,Valid,Sulfur chloride (S2Cl2),Sulfur monochloride,10025-67-9,,,Cl2S2,Active
+152405,Oil of Vitriol,Valid,Sulfuric acid,Sulfuric acid,7664-93-9,,,H2O4S,Active
+152405,Oleum,Trade Name,Sulfuric acid,Sulfuric acid,7664-93-9,,,H2O4S,Active
+152405,Sulfuric acid,Valid,Sulfuric acid,Sulfuric acid,7664-93-9,,,H2O4S,Active
+153536,Copper sulfate,Valid,Sulfuric acid copper(2+) salt (1:1),Cupric sulfate,7758-98-7,,,Cu.H2O4S,Active
+153536,Cupric sulfate,Valid,Sulfuric acid copper(2+) salt (1:1),Cupric sulfate,7758-98-7,,,Cu.H2O4S,Active
+167106,Aluminum sulfate,Valid,"Sulfuric acid, aluminum salt (3:2)",Aluminum sulfate,10043-01-3,,,Al.3/2H2O4S,Active
+167106,Alum,Valid,"Sulfuric acid, aluminum salt (3:2)",Aluminum sulfate,10043-01-3,,,Al.3/2H2O4S,Active
+167221,Mohr's salt,Valid,"Sulfuric acid, ammonium iron(2+) salt (2:2:1)",Ferrous ammonium sulfate,10045-89-3,,,Fe.2H3N.2H2O4S,Active
+167221,Ferrous ammonium sulfate,Valid,"Sulfuric acid, ammonium iron(2+) salt (2:2:1)",Ferrous ammonium sulfate,10045-89-3,,,Fe.2H3N.2H2O4S,Active
+167221,Iron ammonium sulfate,Valid,"Sulfuric acid, ammonium iron(2+) salt (2:2:1)",Ferrous ammonium sulfate,10045-89-3,,,Fe.2H3N.2H2O4S,Active
+200964,Ammonium nickel sulfate,Valid,"Sulfuric acid, ammonium nickel(2+) salt (2:2:1)",Nickel ammonium sulfate,15699-18-0,,,H3N.H2O4S.1/2Ni,Active
+200964,Nickel ammonium sulfate,Valid,"Sulfuric acid, ammonium nickel(2+) salt (2:2:1)",Nickel ammonium sulfate,15699-18-0,,,H3N.H2O4S.1/2Ni,Active
+167759,Chromic sulfate,Valid,"Sulfuric acid, chromium(3+) salt (3:2)",Chromium(III) sulfate,10101-53-8,,,Cr.3/2H2O4S,Active
+152926,Green vitriol,Valid,"Sulfuric acid, iron(2+) salt (1:1)",Ferrous sulfate,7720-78-7,,,Fe.H2O4S,Active
+152926,Ferrous sulfate,Valid,"Sulfuric acid, iron(2+) salt (1:1)",Ferrous sulfate,7720-78-7,,,Fe.H2O4S,Active
+154336,Iron sulfate,Inaccurate,"Sulfuric acid, iron(2+) salt (1:1), heptahydrate",Ferrous sulfate heptahydrate,7782-63-0,,,Fe.H2O4S.7H2O,Active
+154336,Iron protosulfate,Valid,"Sulfuric acid, iron(2+) salt (1:1), heptahydrate",Ferrous sulfate heptahydrate,7782-63-0,,,Fe.H2O4S.7H2O,Active
+154336,Iron vitriol,Inaccurate,"Sulfuric acid, iron(2+) salt (1:1), heptahydrate",Ferrous sulfate heptahydrate,7782-63-0,,,Fe.H2O4S.7H2O,Active
+166702,Iron sulfate,Valid,"Sulfuric acid, iron(3+) salt (3:2)",Ferric sulfate,10028-22-5,,,Fe.3/2H2O4S,Active
+166702,Ferric persulfate,Valid,"Sulfuric acid, iron(3+) salt (3:2)",Ferric sulfate,10028-22-5,,,Fe.3/2H2O4S,Active
+166702,Ferric sesquisulfate,Valid,"Sulfuric acid, iron(3+) salt (3:2)",Ferric sulfate,10028-22-5,,,Fe.3/2H2O4S,Active
+166702,Ferric tersulfate,Valid,"Sulfuric acid, iron(3+) salt (3:2)",Ferric sulfate,10028-22-5,,,Fe.3/2H2O4S,Active
+166702,Ferric sulfate,Valid,"Sulfuric acid, iron(3+) salt (3:2)",Ferric sulfate,10028-22-5,,,Fe.3/2H2O4S,Active
+150383,Lead sulfate,Valid,"Sulfuric acid, lead(2+) salt (1:1)",Lead(II) sulfate,7446-14-2,,,H2O4S.Pb,Active
+154609,Mercury sulfate,Valid,"Sulfuric acid, mercury(2+) salt (1:1)",Mercuric sulfate,7783-35-9,,,H2O4S.Hg,Active
+154609,Mercuric sulfate,Valid,"Sulfuric acid, mercury(2+) salt (1:1)",Mercuric sulfate,7783-35-9,,,H2O4S.Hg,Active
+154609,Mercury persulfate,Valid,"Sulfuric acid, mercury(2+) salt (1:1)",Mercuric sulfate,7783-35-9,,,H2O4S.Hg,Active
+155366,Nickelous sulfate,Valid,"Sulfuric acid, nickel(2+) salt (1:1)",Nickel sulfate,7786-81-4,,,H2O4S.Ni,Active
+155366,Nickel sulfate,Valid,"Sulfuric acid, nickel(2+) salt (1:1)",Nickel sulfate,7786-81-4,,,H2O4S.Ni,Active
+166801,Thallium sulfate,Valid,"Sulfuric acid, thallium salt (1:?)",Thallium sulfate,10031-59-1,,,H2O4S.xTl,Active
+150417,Thallium sulfate,Valid,"Sulfuric acid, thallium(1+) salt (1:2)",Thallium(I) sulfate,7446-18-6,,,H2O4S.2Tl,Active
+153189,Zinc vitriol,Valid,"Sulfuric acid, zinc salt (1:1)",Zinc sulfate,7733-02-0,,,H2O4S.Zn,Active
+153189,Zinc sulfate,Valid,"Sulfuric acid, zinc salt (1:1)",Zinc sulfate,7733-02-0,,,H2O4S.Zn,Active
+153189,White copperas,Valid,"Sulfuric acid, zinc salt (1:1)",Zinc sulfate,7733-02-0,,,H2O4S.Zn,Active
+153189,White vitriol,Valid,"Sulfuric acid, zinc salt (1:1)",Zinc sulfate,7733-02-0,,,H2O4S.Zn,Active
+196519,Disulfatozirconic acid,Valid,"Sulfuric acid, zirconium(4+) salt (2:1)",Zirconium sulfate,14644-61-2,,,H2O4S.1/2Zr,Active
+196519,Zirconium sulfate,Valid,"Sulfuric acid, zirconium(4+) salt (2:1)",Zirconium sulfate,14644-61-2,,,H2O4S.1/2Zr,Active
+100073,Omite,Trade Name,"Sulfurous acid, 2-[4-(1,1-dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester",Propargite,2312-35-8,,,C19H26O4S,Active
+100073,Propargite,Valid,"Sulfurous acid, 2-[4-(1,1-dimethylethyl)phenoxy]cyclohexyl 2-propynyl ester",Propargite,2312-35-8,,,C19H26O4S,Active
+169102,Ammonium bisulfite,Valid,"Sulfurous acid, ammonium salt (1:1)",Ammonium bisulfite,10192-30-0,,,H3N.H2O3S,Active
+169102,Ammonium sulfite,Inaccurate,"Sulfurous acid, ammonium salt (1:1)",Ammonium bisulfite,10192-30-0,,,H3N.H2O3S,Active
+169219,Ammonium sulfite,Valid,"Sulfurous acid, ammonium salt (1:2)",Ammonium sulfite,10196-04-0,,,H3N.1/2H2O3S,Active
+151993,Sodium hydrogen sulfite,Valid,"Sulfurous acid, sodium salt (1:1)",Sodium bisulfite,7631-90-5,,,H2O3S.Na,Active
+151993,Sodium bisulfite,Valid,"Sulfurous acid, sodium salt (1:1)",Sodium bisulfite,7631-90-5,,,H2O3S.Na,Active
+151993,Sodium acid sulfite,Valid,"Sulfurous acid, sodium salt (1:1)",Sodium bisulfite,7631-90-5,,,H2O3S.Na,Active
+754994,"2,4,5-T amines",Unknown,"2,4,5-T amines -- CWA 311",,,,E754994,,Active
+755009,"2,4,5-T esters",Unknown,"2,4,5-T esters -- CWA 311",,,,E755009,,Active
+755017,"2,4,5-T salts",Unknown,"2,4,5-T salts -- CWA 311",,,,E755017,,Active
+755025,"2,4,5-TP esters",Unknown,"2,4,5-TP esters -- CWA 311",,,,E755025,,Active
+92197,Ammonium sulfocyanide,Valid,"Thiocyanic acid, ammonium salt (1:1)",Ammonium thiocyanate,1762-95-4,,,CHNS.H3N,Active
+92197,Ammonium rhodanide,Valid,"Thiocyanic acid, ammonium salt (1:1)",Ammonium thiocyanate,1762-95-4,,,CHNS.H3N,Active
+92197,Ammonium thiocyanate,Valid,"Thiocyanic acid, ammonium salt (1:1)",Ammonium thiocyanate,1762-95-4,,,CHNS.H3N,Active
+92197,Ammonium sulfocyanate,Valid,"Thiocyanic acid, ammonium salt (1:1)",Ammonium thiocyanate,1762-95-4,,,CHNS.H3N,Active
+57281,Lead sulfocyanate,Valid,"Thiocyanic acid, lead(2+) salt (2:1)",Lead(II) thiocyanate,592-87-0,,,CHNS.1/2Pb,Active
+57281,Lead thiocyanate,Valid,"Thiocyanic acid, lead(2+) salt (2:1)",Lead(II) thiocyanate,592-87-0,,,CHNS.1/2Pb,Active
+57273,Mercuric thiocyanate,Valid,"Thiocyanic acid, mercury(2+) salt (2:1)",Mercuric thiocyanate,592-85-8,,,CHNS.1/2Hg,Active
+57273,Mercuric sulfocyanate,Valid,"Thiocyanic acid, mercury(2+) salt (2:1)",Mercuric thiocyanate,592-85-8,,,CHNS.1/2Hg,Active
+57273,Mercuric sulfocyanide,Valid,"Thiocyanic acid, mercury(2+) salt (2:1)",Mercuric thiocyanate,592-85-8,,,CHNS.1/2Hg,Active
+57273,Mercury thiocyanate,Valid,"Thiocyanic acid, mercury(2+) salt (2:1)",Mercuric thiocyanate,592-85-8,,,CHNS.1/2Hg,Active
+154542,Ammonium hyposulfite,Valid,"Thiosulfuric acid (H2S2O3), ammonium salt (1:2)",Ammonium thiosulfate,7783-18-8,,,H3N.1/2H2O3S2,Inactive
+154542,Ammonium thiosulfate,Valid,"Thiosulfuric acid (H2S2O3), ammonium salt (1:2)",Ammonium thiosulfate,7783-18-8,,,H3N.1/2H2O3S2,Inactive
+156919,Toxaphene,Trade Name,Toxaphene,Toxaphene,8001-35-2,,,Unspecified,Active
+156919,Camphechlor,Valid,Toxaphene,Toxaphene,8001-35-2,,,Unspecified,Active
+153460,"Sodium phosphate, tribasic",Valid,"Triphosphoric acid, sodium salt (1:5)",Sodium tripolyphosphate,7758-29-4,,,H5O10P3.5Na,Active
+52035,Uranyl acetate,Valid,"Uranium, bis(acetato-.kappa.O)dioxo-, (T-4)-",Uranyl acetate,541-09-3,,,C4H6O6U,Active
+167874,Uranyl nitrate,Valid,"Uranium, bis(nitrato-.kappa.O)dioxo-, (T-4)-",Uranyl nitrate,10102-06-4,,,N2O8U,Active
+271486,Uranyl nitrate,Valid,"Uranium, bis(nitrato-.kappa.O,.kappa.O')dioxo-, (OC-6-11)-","bis(Nitrato-O,O')dioxouranium",36478-76-9,,,N2O8U,Active
+42606,DMU,Valid,"Urea, N'-(3,4-dichlorophenyl)-N,N-dimethyl-",Diuron,330-54-1,,,C9H10Cl2N2O,Active
+42606,Diuron,Valid,"Urea, N'-(3,4-dichlorophenyl)-N,N-dimethyl-",Diuron,330-54-1,,,C9H10Cl2N2O,Active
+42606,DCMU,Valid,"Urea, N'-(3,4-dichlorophenyl)-N,N-dimethyl-",Diuron,330-54-1,,,C9H10Cl2N2O,Active
+83113,Vanadium pentoxide,Valid,Vanadium oxide (V2O5),Vanadium pentoxide,1314-62-1,,,O5V2,Active
+83113,Vanadic acid anhydride,Valid,Vanadium oxide (V2O5),Vanadium pentoxide,1314-62-1,,,O5V2,Active
+83113,Vanadic anhydride,Valid,Vanadium oxide (V2O5),Vanadium pentoxide,1314-62-1,,,O5V2,Active
+246876,Vanadium sulfate,Inaccurate,"Vanadium, oxo[sulfato(2-)-.kappa.O]-",Vanadyl sulfate,27774-13-6,,,O5SV,Active
+246876,Vanadic sulfate,Valid,"Vanadium, oxo[sulfato(2-)-.kappa.O]-",Vanadyl sulfate,27774-13-6,,,O5SV,Active
+246876,Vanadyl sulfate,Valid,"Vanadium, oxo[sulfato(2-)-.kappa.O]-",Vanadyl sulfate,27774-13-6,,,O5SV,Active
+152710,Zinc bromide,Valid,Zinc bromide (ZnBr2),Zinc bromide,7699-45-8,,,Br2Zn,Active
+152215,Zinc chloride,Valid,Zinc chloride (ZnCl2),Zinc chloride,7646-85-7,,,Cl2Zn,Active
+152215,Butter of zinc,Valid,Zinc chloride (ZnCl2),Zinc chloride,7646-85-7,,,Cl2Zn,Active
+54213,Zinc cyanide,Valid,Zinc cyanide (Zn(CN)2),Zinc cyanide,557-21-1,,,C2N2Zn,Active
+154674,Zinc fluoride,Valid,Zinc fluoride (ZnF2),Zinc difluoride,7783-49-5,,,F2Zn,Active
+83154,Zinc phosphide,Valid,Zinc phosphide (Zn3P2),Zinc phosphide,1314-84-7,,,P2Zn3,Active
+196451,Zinc ammonium chloride,Valid,"Zincate(2-), tetrachloro-, ammonium (1:2), (T-4)-",Ammonium tetrachlorozincate,14639-97-5,,,Cl4Zn.2H4N,Active
+196469,Zinc ammonium chloride,Valid,"Zincate(3-), pentachloro-, ammonium (1:3)",Ammonium pentachlorozincate,14639-98-6,,,Cl5Zn.3H4N,Active
+206250,Zirconium potassium fluoride,Valid,"Zirconate(2-), hexafluoro-, potassium (1:2), (OC-6-11)-",Zirconium potassium fluoride,16923-95-8,,,F6Zr.2K,Active
+166595,Zirconium tetrachloride,Valid,"Zirconium chloride (ZrCl4), (T-4)-",Zirconium tetrachloride,10026-11-6,,,Cl4Zr,Active
+155242,"Sodium phosphate, tribasic",Valid,"Metaphosphoric acid (H3P3O9), sodium salt (1:3)",Sodium trimetaphosphate,7785-84-4,,,H3O9P3.3Na,Active
+168385,"Sodium phosphate, tribasic",Valid,"Metaphosphoric acid (H6P6O18), sodium salt (1:6)",Sodium hexametaphosphate,10124-56-8,,,H6O18P6.6Na,Active
