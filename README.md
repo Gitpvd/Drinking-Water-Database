@@ -1,4 +1,4 @@
-# Drinking Water Database
+# Drinking Water Testing vs Frack Chemicals
 
 ### How We Defined Our Dataset
 
@@ -15,3 +15,9 @@ The data coming out of the tables from the EPA was fairly clean, there were no d
 #### Load
 
 We used the MongoDB for loading our data.  We found this would be easiest, given the range of data points across the diverse data sets we were working with.
+
+# The Code 
+
+ctrl-left click to open
+
+ [Database_Script.md](Database_Script.md) 
